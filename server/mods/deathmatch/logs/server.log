@@ -656,3 +656,68 @@
 [2017-09-21 18:57:42] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]  [DUP x2]
 [2017-09-21 18:57:43] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]
 [2017-09-21 18:57:49] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]  [DUP x2]
+[2017-09-21 19:00:20] restart: Requested by Console
+[2017-09-21 19:00:20] restart: Resource restarting...
+[2017-09-21 19:00:20] Stopping erpe
+[2017-09-21 19:00:20] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:00:20] Starting erpe
+[2017-09-21 19:00:20] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:00:20] erpe restarted successfully
+[2017-09-21 19:00:24] WARNING: erpe\server.lua:18: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 19:00:24] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got boolean]
+[2017-09-21 19:00:24] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value
+[2017-09-21 19:03:33] restart: Requested by Console
+[2017-09-21 19:03:33] restart: Resource restarting...
+[2017-09-21 19:03:33] Stopping erpe
+[2017-09-21 19:03:33] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:03:33] Starting erpe
+[2017-09-21 19:03:33] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:03:33] erpe restarted successfully
+[2017-09-21 19:03:38] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 19:03:38] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got boolean]
+[2017-09-21 19:03:38] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:04:07] restart: Requested by Console
+[2017-09-21 19:04:07] restart: Resource restarting...
+[2017-09-21 19:04:07] Stopping erpe
+[2017-09-21 19:04:07] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:04:07] Starting erpe
+[2017-09-21 19:04:07] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:04:07] erpe restarted successfully
+[2017-09-21 19:04:10] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 19:04:10] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '0']
+[2017-09-21 19:04:10] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:05:20] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'shlime']
+[2017-09-21 19:05:26] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:05:27] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'pajszi']
+[2017-09-21 19:05:27] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:05:32] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 19:05:32] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '0']
+[2017-09-21 19:05:35] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:05:35] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'shlime']
+[2017-09-21 19:05:35] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:05:41] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'shlime']
+[2017-09-21 19:05:41] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:05:45] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 19:05:45] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '1']
+[2017-09-21 19:05:47] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:05:47] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 19:05:47] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '0']
+[2017-09-21 19:05:47] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:06:32] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 19:06:32] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'p']
+[2017-09-21 19:06:34] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:06:34] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 19:06:34] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'pa']
+[2017-09-21 19:06:34] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:06:38] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 19:06:38] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'pajs']
+[2017-09-21 19:06:40] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:06:40] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'pajszi']
+[2017-09-21 19:06:40] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:06:46] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 19:06:46] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'paj']
+[2017-09-21 19:06:49] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:06:49] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'pajszi']
+[2017-09-21 19:06:49] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:06:53] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'shlime']
+[2017-09-21 19:06:59] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
