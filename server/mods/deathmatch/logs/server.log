@@ -521,3 +521,138 @@
 [2017-09-21 18:27:36] Starting erpe
 [2017-09-21 18:27:36] Gamemode 'ERPÉ szerver' started.
 [2017-09-21 18:27:36] erpe restarted successfully
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-21 18:41:28] Resources: 57 loaded, 0 failed
+[2017-09-21 18:41:28] Starting resources...
+[2017-09-21 18:41:36] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-21 18:41:45] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:41:45] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-21 18:41:45] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-21 18:41:45] WARNING: <owner_email_address> not set
+[2017-09-21 18:41:45] Server started and is ready to accept connections!
+[2017-09-21 18:41:45] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-21 18:41:45] Type 'help' for a list of commands.
+[2017-09-21 18:41:51] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 18:41:52] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 18:42:11] DIAGNOSTIC: shlime #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [erpe/client.lua] (Disabling External HTTP) [erpe\client.lua]
+[2017-09-21 18:42:26] CONNECT: pajszi connected (IP: 89.133.55.164  Serial: 133430AC53A6B147505728A50688E084  Version: 1.5.4-9.11674.2)
+[2017-09-21 18:42:26] JOIN: pajszi joined the game (IP: 89.133.55.164)
+[2017-09-21 18:42:46] DIAGNOSTIC: pajszi #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [erpe/client.lua] (Disabling External HTTP) [erpe\client.lua]
+[2017-09-21 18:42:49] restart: Requested by Console
+[2017-09-21 18:42:49] restart: Resource restarting...
+[2017-09-21 18:42:49] Stopping erpe
+[2017-09-21 18:42:49] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:42:49] Starting erpe
+[2017-09-21 18:42:49] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:42:49] erpe restarted successfully
+[2017-09-21 18:42:53] WARNING: erpe\server.lua:16: Bad argument @ 'setElementModel' [Expected element at argument 1, got string '1']
+[2017-09-21 18:42:53] WARNING: erpe\server.lua:17: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '1']
+[2017-09-21 18:42:53] ERROR: erpe\server.lua:17: attempt to concatenate a boolean value
+[2017-09-21 18:42:56] WARNING: erpe\server.lua:16: Bad argument @ 'setElementModel' [Expected element at argument 1, got string 'pajszi']
+[2017-09-21 18:42:56] WARNING: erpe\server.lua:17: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'pajszi']
+[2017-09-21 18:43:02] ERROR: erpe\server.lua:17: attempt to concatenate a boolean value
+[2017-09-21 18:43:22] restart: Requested by Console
+[2017-09-21 18:43:22] restart: Resource restarting...
+[2017-09-21 18:43:22] Stopping erpe
+[2017-09-21 18:43:22] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:43:22] Starting erpe
+[2017-09-21 18:43:22] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:43:22] erpe restarted successfully
+[2017-09-21 18:43:27] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got number '0']
+[2017-09-21 18:43:27] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got number '0']
+[2017-09-21 18:43:27] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:43:30] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got nil]
+[2017-09-21 18:43:30] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2017-09-21 18:43:36] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:44:14] restart: Requested by Console
+[2017-09-21 18:44:14] restart: Resource restarting...
+[2017-09-21 18:44:14] Stopping erpe
+[2017-09-21 18:44:14] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:44:14] Starting erpe
+[2017-09-21 18:44:14] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:44:14] erpe restarted successfully
+[2017-09-21 18:44:19] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got string '0']
+[2017-09-21 18:44:19] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got number '0']
+[2017-09-21 18:44:19] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value
+[2017-09-21 18:44:22] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got string '1']
+[2017-09-21 18:44:22] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got number '1']
+[2017-09-21 18:44:27] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value
+[2017-09-21 18:44:27] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got string 'shlime']
+[2017-09-21 18:44:27] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2017-09-21 18:44:27] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value
+[2017-09-21 18:50:57] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got string '0']
+[2017-09-21 18:50:57] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got number '0']
+[2017-09-21 18:51:03] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value
+[2017-09-21 18:51:50] CHAT: pajszi: nonos zar
+[2017-09-21 18:52:06] restart: Requested by Console
+[2017-09-21 18:52:06] restart: Resource restarting...
+[2017-09-21 18:52:06] Stopping erpe
+[2017-09-21 18:52:06] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:52:06] Starting erpe
+[2017-09-21 18:52:06] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:52:06] erpe restarted successfully
+[2017-09-21 18:52:10] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 18:52:10] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '0']
+[2017-09-21 18:52:10] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:52:16] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 18:52:16] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '0']
+[2017-09-21 18:52:16] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:52:16] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 18:52:16] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '0']
+[2017-09-21 18:52:16] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:52:22] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 18:52:22] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '0']
+[2017-09-21 18:52:22] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:52:43] restart: Requested by Console
+[2017-09-21 18:52:43] restart: Resource restarting...
+[2017-09-21 18:52:43] Stopping erpe
+[2017-09-21 18:52:43] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:52:43] Starting erpe
+[2017-09-21 18:52:43] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:52:43] erpe restarted successfully
+[2017-09-21 18:52:47] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 18:52:47] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '0']
+[2017-09-21 18:52:47] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:53:56] restart: Requested by Console
+[2017-09-21 18:53:56] restart: Resource restarting...
+[2017-09-21 18:53:56] Stopping erpe
+[2017-09-21 18:53:56] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:53:56] Starting erpe
+[2017-09-21 18:53:56] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:53:56] erpe restarted successfully
+[2017-09-21 18:53:59] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got boolean]
+[2017-09-21 18:53:59] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got boolean]
+[2017-09-21 18:53:59] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:56:47] restart: Requested by Console
+[2017-09-21 18:56:47] restart: Resource restarting...
+[2017-09-21 18:56:47] Stopping erpe
+[2017-09-21 18:56:47] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:56:47] Starting erpe
+[2017-09-21 18:56:47] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:56:47] erpe restarted successfully
+[2017-09-21 18:56:49] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]
+[2017-09-21 18:56:58] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]
+[2017-09-21 18:56:58] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected number at argument 2, got nil]
+[2017-09-21 18:56:58] ERROR: erpe\server.lua:18: attempt to concatenate local 'skin' (a nil value)
+[2017-09-21 18:57:08] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]
+[2017-09-21 18:57:14] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]
+[2017-09-21 18:57:15] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]
+[2017-09-21 18:57:21] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]  [DUP x3]
+[2017-09-21 18:57:22] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]
+[2017-09-21 18:57:28] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]  [DUP x2]
+[2017-09-21 18:57:36] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]
+[2017-09-21 18:57:42] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]  [DUP x2]
+[2017-09-21 18:57:43] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]
+[2017-09-21 18:57:49] WARNING: erpe\server.lua:16: Bad argument @ 'getElementByID' [Expected string at argument 1, got nil]  [DUP x2]
