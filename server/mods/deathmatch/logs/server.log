@@ -721,3 +721,302 @@
 [2017-09-21 19:06:49] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
 [2017-09-21 19:06:53] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string 'shlime']
 [2017-09-21 19:06:59] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 19:21:46] restart: Requested by Console
+[2017-09-21 19:21:46] restart: Resource restarting...
+[2017-09-21 19:21:46] Stopping erpe
+[2017-09-21 19:21:46] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:21:46] Starting erpe
+[2017-09-21 19:21:46] ERROR: erpe\idsys.lua:4: exports: Call to non-running server resource (dxscoreboard) [string "?"]
+[2017-09-21 19:21:46] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:21:46] erpe restarted successfully
+[2017-09-21 19:22:21] restart: Requested by Console
+[2017-09-21 19:22:21] restart: Resource restarting...
+[2017-09-21 19:22:21] Stopping erpe
+[2017-09-21 19:22:21] ERROR: erpe\idsys.lua:12: exports: Call to non-running server resource (dxscoreboard) [string "?"]
+[2017-09-21 19:22:21] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:22:21] Starting erpe
+[2017-09-21 19:22:21] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:22:21] erpe restarted successfully
+[2017-09-21 19:22:27] ERROR: erpe\idsys.lua:4: exports: Call to non-running server resource (dxscoreboard) [string "?"]
+[2017-09-21 19:23:08] Server stopped!
+[2017-09-21 19:23:08] Stopping resources......
+[2017-09-21 19:23:08] ERROR: erpe\idsys.lua:12: exports: Call to non-running server resource (dxscoreboard) [string "?"]
+[2017-09-21 19:23:08] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-21 19:23:58] Resources: 57 loaded, 0 failed
+[2017-09-21 19:23:58] Starting resources...
+[2017-09-21 19:24:08] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-21 19:24:17] ERROR: erpe\idsys.lua:4: exports: Call to non-running server resource (dxscoreboard) [string "?"]
+[2017-09-21 19:24:17] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:24:17] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-21 19:24:17] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-21 19:24:17] WARNING: <owner_email_address> not set
+[2017-09-21 19:24:17] Server started and is ready to accept connections!
+[2017-09-21 19:24:17] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-21 19:24:17] Type 'help' for a list of commands.
+[2017-09-21 19:24:34] CONNECT: pajszi connected (IP: 89.133.55.164  Serial: 133430AC53A6B147505728A50688E084  Version: 1.5.4-9.11674.2)
+[2017-09-21 19:24:35] JOIN: pajszi joined the game (IP: 89.133.55.164)
+[2017-09-21 19:28:16] restart: Requested by Console
+[2017-09-21 19:28:16] restart: Resource restarting...
+[2017-09-21 19:28:16] Stopping erpe
+[2017-09-21 19:28:16] ERROR: erpe\idsys.lua:12: exports: Call to non-running server resource (dxscoreboard) [string "?"]
+[2017-09-21 19:28:16] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:28:16] Starting erpe
+[2017-09-21 19:28:16] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:28:16] erpe restarted successfully
+[2017-09-21 19:31:20] Server stopped!
+[2017-09-21 19:31:20] Stopping resources.....................
+[2017-09-21 19:31:20] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-21 19:31:50] Resources: 58 loaded, 0 failed
+[2017-09-21 19:31:50] Starting resources...
+[2017-09-21 19:31:58] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-21 19:32:06] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:32:06] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-21 19:32:06] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-21 19:32:06] WARNING: <owner_email_address> not set
+[2017-09-21 19:32:06] Server started and is ready to accept connections!
+[2017-09-21 19:32:06] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-21 19:32:06] Type 'help' for a list of commands.
+[2017-09-21 19:32:17] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 19:32:17] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 19:32:23] CONNECT: pajszi connected (IP: 89.133.55.164  Serial: 133430AC53A6B147505728A50688E084  Version: 1.5.4-9.11674.2)
+[2017-09-21 19:32:23] JOIN: pajszi joined the game (IP: 89.133.55.164)
+[2017-09-21 19:32:32] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:32:38] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)  [DUP x2]
+[2017-09-21 19:32:45] QUIT: pajszi left the game [Quit]
+[2017-09-21 19:32:49] CONNECT: pajszi connected (IP: 89.133.55.164  Serial: 133430AC53A6B147505728A50688E084  Version: 1.5.4-9.11674.2)
+[2017-09-21 19:32:49] JOIN: pajszi joined the game (IP: 89.133.55.164)
+[2017-09-21 19:33:23] restart: Requested by Console
+[2017-09-21 19:33:23] restart: Resource restarting...
+[2017-09-21 19:33:23] Stopping erpe
+[2017-09-21 19:33:23] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:33:23] Starting erpe
+[2017-09-21 19:33:23] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:33:23] erpe restarted successfully
+[2017-09-21 19:33:27] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:36:06] restart: Requested by Console
+[2017-09-21 19:36:06] restart: Resource restarting...
+[2017-09-21 19:36:06] Stopping erpe
+[2017-09-21 19:36:06] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:36:06] Starting erpe
+[2017-09-21 19:36:06] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:36:06] erpe restarted successfully
+[2017-09-21 19:36:14] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:36:18] CHAT: pajszi: gyáá
+[2017-09-21 19:36:19] CHAT: pajszi: szar
+[2017-09-21 19:36:20] CHAT: pajszi: XDASD_:
+[2017-09-21 19:36:32] restart: Requested by Console
+[2017-09-21 19:36:32] restart: Resource restarting...
+[2017-09-21 19:36:32] Stopping erpe
+[2017-09-21 19:36:32] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:36:32] Starting erpe
+[2017-09-21 19:36:32] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:36:32] erpe restarted successfully
+[2017-09-21 19:36:37] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:37:38] restart: Requested by Console
+[2017-09-21 19:37:38] restart: Resource restarting...
+[2017-09-21 19:37:38] Stopping erpe
+[2017-09-21 19:37:38] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:37:38] Starting erpe
+[2017-09-21 19:37:38] ERROR: erpe\idsys.lua:4: exports: Call to non-running server resource (dxscoreboard) [string "?"]
+[2017-09-21 19:37:38] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:37:38] erpe restarted successfully
+[2017-09-21 19:38:45] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:38:48] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:38:54] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:38:56] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:39:08] restart: Requested by Console
+[2017-09-21 19:39:08] restart: Resource restarting...
+[2017-09-21 19:39:08] Stopping erpe
+[2017-09-21 19:39:08] ERROR: erpe\idsys.lua:12: exports: Call to non-running server resource (dxscoreboard) [string "?"]
+[2017-09-21 19:39:08] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:39:08] Starting erpe
+[2017-09-21 19:39:08] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:39:08] erpe restarted successfully
+[2017-09-21 19:39:34] Server stopped!
+[2017-09-21 19:39:34] Stopping resources.....................
+[2017-09-21 19:39:34] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-21 19:40:03] Resources: 58 loaded, 0 failed
+[2017-09-21 19:40:03] Starting resources...
+[2017-09-21 19:40:10] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-21 19:40:18] ERROR: erpe\idsys.lua:4: exports: Call to non-running server resource (dxscoreboard) [string "?"]
+[2017-09-21 19:40:18] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:40:18] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-21 19:40:18] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-21 19:40:18] WARNING: <owner_email_address> not set
+[2017-09-21 19:40:18] Server started and is ready to accept connections!
+[2017-09-21 19:40:18] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-21 19:40:18] Type 'help' for a list of commands.
+[2017-09-21 19:40:44] CONNECT: pajszi connected (IP: 89.133.55.164  Serial: 133430AC53A6B147505728A50688E084  Version: 1.5.4-9.11674.2)
+[2017-09-21 19:40:44] JOIN: pajszi joined the game (IP: 89.133.55.164)
+[2017-09-21 19:41:28] Server stopped!
+[2017-09-21 19:41:28] Stopping resources......
+[2017-09-21 19:41:28] ERROR: erpe\idsys.lua:12: exports: Call to non-running server resource (dxscoreboard) [string "?"]
+[2017-09-21 19:41:28] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-21 19:41:58] Resources: 58 loaded, 0 failed
+[2017-09-21 19:41:58] Starting resources...
+[2017-09-21 19:42:07] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-21 19:42:15] ERROR: erpe\idsys.lua:4: exports: Call to non-running server resource (dxscoreboard) [string "?"]
+[2017-09-21 19:42:15] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:42:15] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-21 19:42:15] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-21 19:42:15] WARNING: <owner_email_address> not set
+[2017-09-21 19:42:15] Server started and is ready to accept connections!
+[2017-09-21 19:42:15] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-21 19:42:15] Type 'help' for a list of commands.
+[2017-09-21 19:42:48] restart: Resource could not be found
+[2017-09-21 19:42:51] restart: Requested by Console
+[2017-09-21 19:42:51] restart: Resource restarting...
+[2017-09-21 19:42:51] Stopping erpe
+[2017-09-21 19:42:51] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:42:51] Starting erpe
+[2017-09-21 19:42:51] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:42:51] erpe restarted successfully
+[2017-09-21 19:43:03] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 19:43:03] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 19:43:17] CONNECT: pajszi connected (IP: 89.133.55.164  Serial: 133430AC53A6B147505728A50688E084  Version: 1.5.4-9.11674.2)
+[2017-09-21 19:43:17] JOIN: pajszi joined the game (IP: 89.133.55.164)
+[2017-09-21 19:43:18] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:43:22] DIAGNOSTIC: shlime #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [dxscoreboard/colorpicker/alpha.png] (Disabling External HTTP) [dxscoreboard\colorpicker\palette.png]
+[2017-09-21 19:43:22] DIAGNOSTIC: shlime #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [dxscoreboard/arrow.png] (Disabling External HTTP) [dxscoreboard\colorpicker\alpha.png]
+[2017-09-21 19:43:22] DIAGNOSTIC: shlime #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [dxscoreboard/dxscoreboard_client.lua] (Disabling External HTTP) [dxscoreboard\arrow.png]
+[2017-09-21 19:43:38] DIAGNOSTIC: pajszi #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [dxscoreboard/dxscoreboard_client.lua] (Disabling External HTTP) [dxscoreboard\colorpicker\palette.png]
+[2017-09-21 19:43:38] DIAGNOSTIC: pajszi #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [dxscoreboard/dxscoreboard_client.lua] (Disabling External HTTP) [dxscoreboard\colorpicker\alpha.png]
+[2017-09-21 19:43:38] DIAGNOSTIC: pajszi #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [dxscoreboard/dxscoreboard_client.lua] (Disabling External HTTP) [dxscoreboard\dxscoreboard_client.lua]
+[2017-09-21 19:43:47] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:43:52] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:43:58] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:44:00] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:44:06] ERROR: erpe\server.lua:16: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:44:10] restart: Resource could not be found
+[2017-09-21 19:44:13] restart: Requested by Console
+[2017-09-21 19:44:13] restart: Resource restarting...
+[2017-09-21 19:44:13] Stopping erpe
+[2017-09-21 19:44:13] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:44:13] Starting erpe
+[2017-09-21 19:44:13] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:44:13] erpe restarted successfully
+[2017-09-21 19:44:33] ERROR: erpe\server.lua:17: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:44:39] ERROR: erpe\server.lua:17: attempt to index global 'idsys' (a nil value)  [DUP x2]
+[2017-09-21 19:44:40] ERROR: erpe\server.lua:17: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:48:29] restart: Requested by Console
+[2017-09-21 19:48:29] restart: Resource restarting...
+[2017-09-21 19:48:29] Stopping erpe
+[2017-09-21 19:48:29] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:48:29] Starting erpe
+[2017-09-21 19:48:29] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:48:29] erpe restarted successfully
+[2017-09-21 19:48:33] ERROR: erpe\server.lua:17: attempt to index global 'idsys' (a nil value)
+[2017-09-21 19:49:29] restart: Requested by Console
+[2017-09-21 19:49:29] restart: Resource restarting...
+[2017-09-21 19:49:29] Stopping erpe
+[2017-09-21 19:49:29] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:49:29] Starting erpe
+[2017-09-21 19:49:29] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:49:29] erpe restarted successfully
+[2017-09-21 19:49:33] ERROR: erpe\server.lua:17: exports: Call to non-running server resource (idsys) [string "?"]
+[2017-09-21 19:49:33] WARNING: erpe\server.lua:18: Bad argument @ 'setElementModel' [Expected element at argument 1, got nil]
+[2017-09-21 19:49:33] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2017-09-21 19:49:33] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value
+[2017-09-21 19:49:39] ERROR: erpe\server.lua:17: exports: Call to non-running server resource (idsys) [string "?"]
+[2017-09-21 19:49:39] WARNING: erpe\server.lua:18: Bad argument @ 'setElementModel' [Expected element at argument 1, got nil]
+[2017-09-21 19:49:39] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2017-09-21 19:49:39] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value
+[2017-09-21 19:49:39] ERROR: erpe\server.lua:17: exports: Call to non-running server resource (idsys) [string "?"]
+[2017-09-21 19:49:39] WARNING: erpe\server.lua:18: Bad argument @ 'setElementModel' [Expected element at argument 1, got nil]
+[2017-09-21 19:49:39] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2017-09-21 19:49:39] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value
+[2017-09-21 19:50:14] restart: Requested by Console
+[2017-09-21 19:50:14] restart: Resource restarting...
+[2017-09-21 19:50:14] Stopping erpe
+[2017-09-21 19:50:14] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:50:14] Starting erpe
+[2017-09-21 19:50:14] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:50:14] erpe restarted successfully
+[2017-09-21 19:50:20] ERROR: erpe\server.lua:17: exports: Call to non-running server resource (idsys) [string "?"]
+[2017-09-21 19:50:20] WARNING: erpe\server.lua:18: Bad argument @ 'setElementModel' [Expected element at argument 1, got nil]
+[2017-09-21 19:50:20] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2017-09-21 19:50:20] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value
+[2017-09-21 19:50:25] ERROR: erpe\server.lua:17: exports: Call to non-running server resource (idsys) [string "?"]
+[2017-09-21 19:50:31] WARNING: erpe\server.lua:18: Bad argument @ 'setElementModel' [Expected element at argument 1, got nil]
+[2017-09-21 19:50:31] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2017-09-21 19:50:31] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value
+[2017-09-21 19:51:05] restart: Requested by Console
+[2017-09-21 19:51:05] restart: Resource restarting...
+[2017-09-21 19:51:05] Stopping erpe
+[2017-09-21 19:51:05] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:51:05] Starting erpe
+[2017-09-21 19:51:05] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:51:05] erpe restarted successfully
+[2017-09-21 19:51:08] ERROR: erpe\server.lua:17: exports: Call to non-running server resource (idsys) [string "?"]
+[2017-09-21 19:51:08] WARNING: erpe\server.lua:18: Bad argument @ 'setElementModel' [Expected element at argument 1, got nil]
+[2017-09-21 19:51:08] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2017-09-21 19:51:08] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value
+[2017-09-21 19:51:14] ERROR: erpe\server.lua:17: exports: Call to non-running server resource (idsys) [string "?"]  [DUP x2]
+[2017-09-21 19:51:14] WARNING: erpe\server.lua:18: Bad argument @ 'setElementModel' [Expected element at argument 1, got nil]  [DUP x2]
+[2017-09-21 19:51:14] WARNING: erpe\server.lua:19: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]  [DUP x2]
+[2017-09-21 19:51:14] ERROR: erpe\server.lua:19: attempt to concatenate a boolean value  [DUP x2]
+[2017-09-21 19:51:50] CHAT: pajszi: asd
+[2017-09-21 19:53:08] restart: Resource could not be found
+[2017-09-21 19:53:11] restart: Requested by Console
+[2017-09-21 19:53:11] restart: Resource restarting...
+[2017-09-21 19:53:11] Stopping erpe
+[2017-09-21 19:53:11] Resource 'erpe' changed, reloading and starting
+[2017-09-21 19:53:11] Starting erpe
+[2017-09-21 19:53:11] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 19:53:11] erpe restarted successfully
+[2017-09-21 19:53:50] QUIT: shlime left the game [Quit]
+[2017-09-21 19:53:53] ERROR: erpe\idsys.lua:157: attempt to concatenate local 'id' (a nil value)
+[2017-09-21 19:53:55] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 19:53:56] JOIN: shlime joined the game (IP: 127.0.0.1)

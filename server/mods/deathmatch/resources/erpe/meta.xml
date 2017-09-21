@@ -1,5 +1,8 @@
 <meta>
-	<info author="shlime" type="gamemode" name="ERPÉ szerver" description="Slajm és Dió erpé szervere" />
+	<info author="shlimenwalnut" type="gamemode" name="ERPÉ szerver" description="Slajm és Dió erpé szervere" />
 	<script src="server.lua" type="server" />
+	<script src="idsys.lua" type="server" />
 	<script src="client.lua" type="client" />
+
+	<export function="getPlayerFromID" type="server" />
 </meta>

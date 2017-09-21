@@ -13,9 +13,10 @@ addEventHandler("onPlayerJoin", root,
 addCommandHandler("skin",
 	function ( player, command, target, skin )
 		local skin = tonumber(skin)
-		local targetID = getPlayerFromName(target)
-		setElementModel(targetID, skin)
-		outputChatBox("Megváltoztattad " .. getPlayerName(target) .. " skinjét ID" .. skin .. "-re.", player)
-		outputChatBox("Megváltoztatták a skined " .. skin .. "-re.", targetID)		
+		local target = tonumber(target)
+		local targetName = getPlayerFromID(target)
+		setElementModel(targetName, skin)
+		outputChatBox("Megváltoztattad " .. getPlayerName(targetName) .. " skinjét ID" .. skin .. "-re.", player)
+		outputChatBox("Megváltoztatták a skined " .. skin .. "-re.", targetName)		
 	end
 )
