@@ -1,0 +1,137 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-20 15:26:30] Resources: 194 loaded, 0 failed
+[2017-09-20 15:26:30] Starting resources...
+[2017-09-20 15:26:39] Server minclientversion is now 1.3.0-9.04311
+[2017-09-20 15:26:48] Gamemode 'play' started.
+[2017-09-20 15:26:48] Server started and is ready to accept connections!
+[2017-09-20 15:26:48] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-20 15:26:48] Type 'help' for a list of commands.
+[2017-09-20 15:26:48] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-20 15:27:09] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-20 15:27:21] KICK: shlime was kicked from the game by  (AC #4 8DA6. [Trainer])
+[2017-09-20 15:27:23] Server stopped!
+[2017-09-20 15:27:23] Stopping resources......................
+[2017-09-20 15:27:23] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-20 15:28:25] Resources: 194 loaded, 0 failed
+[2017-09-20 15:28:25] Starting resources...
+[2017-09-20 15:28:32] Server minclientversion is now 1.3.0-9.04311
+[2017-09-20 15:28:41] Gamemode 'play' started.
+[2017-09-20 15:28:41] Initiating changemode from 'play' to 'freeroamhun'
+[2017-09-20 15:28:41] ERROR: Unable to start resource freeroamhun; 
+[2017-09-20 15:28:41] Server started and is ready to accept connections!
+[2017-09-20 15:28:41] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-20 15:28:41] Type 'help' for a list of commands.
+[2017-09-20 15:28:41] Stopping play
+[2017-09-20 15:28:41] Stopping freeroam
+[2017-09-20 15:28:41] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-20 15:28:41] WARNING: freeroamhun/util.lua(Line 64) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead.
+[2017-09-20 15:28:41] WARNING: freeroamhun/fr_client.lua(Line 548) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead.
+[2017-09-20 15:28:41] Some files in 'freeroamhun' use deprecated functions.
+[2017-09-20 15:28:41] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2017-09-20 15:28:41] Starting freeroamhun
+[2017-09-20 15:28:41] Gamemode 'Hungary Freeraom' started.
+[2017-09-20 15:28:41] startResource: Resource 'freeroamhun' started
+[2017-09-20 15:28:42] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-20 15:28:42] KICK: shlime was kicked from the game by  (AC #4 8DA6)
+[2017-09-20 15:28:43] Server stopped!
+[2017-09-20 15:28:43] Stopping resources.....................
+[2017-09-20 15:28:43] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-20 15:29:35] Resources: 194 loaded, 0 failed
+[2017-09-20 15:29:35] Starting resources...
+[2017-09-20 15:29:43] Server minclientversion is now 1.3.0-9.04311
+[2017-09-20 15:29:51] Gamemode 'play' started.
+[2017-09-20 15:29:51] Initiating changemode from 'play' to 'freeroamhun'
+[2017-09-20 15:29:51] ERROR: Unable to start resource freeroamhun; 
+[2017-09-20 15:29:51] Server started and is ready to accept connections!
+[2017-09-20 15:29:51] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-20 15:29:51] Type 'help' for a list of commands.
+[2017-09-20 15:29:51] Stopping play
+[2017-09-20 15:29:51] Stopping freeroam
+[2017-09-20 15:29:51] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-20 15:29:51] WARNING: freeroamhun/util.lua(Line 64) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead.
+[2017-09-20 15:29:51] WARNING: freeroamhun/fr_client.lua(Line 548) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead.
+[2017-09-20 15:29:51] Some files in 'freeroamhun' use deprecated functions.
+[2017-09-20 15:29:51] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2017-09-20 15:29:51] Starting freeroamhun
+[2017-09-20 15:29:51] Gamemode 'Hungary Freeraom' started.
+[2017-09-20 15:29:51] startResource: Resource 'freeroamhun' started
+[2017-09-20 15:29:52] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-20 15:29:52] KICK: shlime was kicked from the game by  (AC #4 8DA6)
+[2017-09-20 15:29:54] Server stopped!
+[2017-09-20 15:29:54] Stopping resources.....................
+[2017-09-20 15:29:54] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-20 16:45:51] Resources: 194 loaded, 0 failed
+[2017-09-20 16:45:51] Starting resources...
+[2017-09-20 16:45:59] Server minclientversion is now 1.3.0-9.04311
+[2017-09-20 16:46:08] Gamemode 'play' started.
+[2017-09-20 16:46:08] Initiating changemode from 'play' to 'freeroamhun'
+[2017-09-20 16:46:08] ERROR: Unable to start resource freeroamhun; 
+[2017-09-20 16:46:08] Server started and is ready to accept connections!
+[2017-09-20 16:46:08] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-20 16:46:08] Type 'help' for a list of commands.
+[2017-09-20 16:46:08] Stopping play
+[2017-09-20 16:46:08] Stopping freeroam
+[2017-09-20 16:46:08] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-20 16:46:08] WARNING: freeroamhun/util.lua(Line 64) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead.
+[2017-09-20 16:46:08] WARNING: freeroamhun/fr_client.lua(Line 548) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead.
+[2017-09-20 16:46:08] Some files in 'freeroamhun' use deprecated functions.
+[2017-09-20 16:46:08] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2017-09-20 16:46:08] Starting freeroamhun
+[2017-09-20 16:46:08] Gamemode 'Hungary Freeraom' started.
+[2017-09-20 16:46:08] startResource: Resource 'freeroamhun' started
+[2017-09-20 16:46:11] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-20 16:47:29] KICK: shlime was kicked from the game by  (AC #4 8DA6. [Trainer])
+[2017-09-20 16:47:30] Server stopped!
+[2017-09-20 16:47:30] Stopping resources.....................
+[2017-09-20 16:47:30] Closing SQLite3 database

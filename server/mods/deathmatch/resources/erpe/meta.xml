@@ -1,0 +1,5 @@
+<meta>
+	<info author="shlime" type="gamemode" name="ERPÉ szerver" description="Slajm és Dió erpé szervere" />
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+</meta>

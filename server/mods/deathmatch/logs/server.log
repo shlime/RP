@@ -1,0 +1,523 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-19 17:18:19] File 'settings.xml' not present, creating new node.
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: 127.0.0.1
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-19 17:19:30] WARNING: Private IP '127.0.0.1' with ase enabled! Use: <serverip>auto</serverip>
+[2017-09-19 17:19:30] Compacting accounts database 'internal.db' ...
+[2017-09-19 17:20:08] Resources: 194 loaded, 0 failed
+[2017-09-19 17:20:08] Compacting database 'registry.db' ...
+[2017-09-19 17:20:08] Starting resources...
+[2017-09-19 17:20:16] Admin access list successfully updated 
+[2017-09-19 17:20:16] INFO: Admin added 499 missing rights
+[2017-09-19 17:20:16] Server minclientversion is now 1.3.0-9.04311
+[2017-09-19 17:20:24] WARNING: freeroamhun/util.lua(Line 64) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead.
+[2017-09-19 17:20:24] WARNING: freeroamhun/fr_client.lua(Line 548) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead.
+[2017-09-19 17:20:24] Some files in 'freeroamhun' use deprecated functions.
+[2017-09-19 17:20:24] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2017-09-19 17:20:24] Gamemode 'Hungary Freeraom' started.
+[2017-09-19 17:20:24] Querying MTA master server... failed! (7 Error downloading requested files. Couldn't connect to server. [Failed to connect to master.mtasa.com port 80: Network unreachable] [add.php?g=22003&a=22126&h=22005&v=1.5.4-9.11674&x=0_32_0_1_1&ip=127.0.0.1])
+[2017-09-19 17:20:24] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-19 17:20:24] WARNING: <owner_email_address> not set
+[2017-09-19 17:20:24] Server started and is ready to accept connections!
+[2017-09-19 17:20:24] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-19 17:20:24] Type 'help' for a list of commands.
+[2017-09-19 17:20:48] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.0)
+[2017-09-19 17:20:49] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-19 17:23:41] QUIT: shlime left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: 127.0.0.1
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-20 15:31:09] WARNING: Private IP '127.0.0.1' with ase enabled! Use: <serverip>auto</serverip>
+[2017-09-20 15:31:38] Resources: 194 loaded, 0 failed
+[2017-09-20 15:31:39] Starting resources...
+[2017-09-20 15:31:47] Server minclientversion is now 1.3.0-9.04311
+[2017-09-20 15:31:55] WARNING: freeroamhun/util.lua(Line 64) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead.
+[2017-09-20 15:31:55] WARNING: freeroamhun/fr_client.lua(Line 548) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead.
+[2017-09-20 15:31:55] Some files in 'freeroamhun' use deprecated functions.
+[2017-09-20 15:31:55] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2017-09-20 15:31:55] Gamemode 'Hungary Freeraom' started.
+[2017-09-20 15:31:55] Querying MTA master server... failed! (7 Error downloading requested files. Couldn't connect to server. [Failed to connect to master.mtasa.com port 80: Network unreachable] [add.php?g=22003&a=22126&h=22005&v=1.5.4-9.11674&x=0_32_0_1_1&ip=127.0.0.1])
+[2017-09-20 15:31:55] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-20 15:31:55] WARNING: <owner_email_address> not set
+[2017-09-20 15:31:55] Server started and is ready to accept connections!
+[2017-09-20 15:31:55] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-20 15:31:55] Type 'help' for a list of commands.
+[2017-09-20 15:32:24] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-20 15:32:25] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-20 15:32:25] KICK: shlime was kicked from the game by  (AC #4 8DA6)
+[2017-09-20 15:32:55] Server stopped!
+[2017-09-20 15:32:55] Stopping resources.....................
+[2017-09-20 15:32:55] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: 127.0.0.1
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-21 16:51:08] WARNING: Private IP '127.0.0.1' with ase enabled! Use: <serverip>auto</serverip>
+[2017-09-21 16:51:53] Resources: 195 loaded, 0 failed
+[2017-09-21 16:51:53] Starting resources...
+[2017-09-21 16:51:53] WARNING: erpe/server.lua(Line 15) [Server] setPlayerSkin is deprecated and may not work in future versions. Please replace with setElementModel.
+[2017-09-21 16:51:53] Some files in 'erpe' use deprecated functions.
+[2017-09-21 16:51:53] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2017-09-21 16:51:54] SCRIPT ERROR: erpe\server.lua:15: 'then' expected near 'setPlayerSkin'
+[2017-09-21 16:51:54] ERROR: Loading script failed: erpe\server.lua:15: 'then' expected near 'setPlayerSkin'
+[2017-09-21 16:51:54] Querying MTA master server... failed! (7 Error downloading requested files. Couldn't connect to server. [Failed to connect to master.mtasa.com port 80: Network unreachable] [add.php?g=22003&a=22126&h=22005&v=1.5.4-9.11674&x=0_32_0_1_1&ip=127.0.0.1])
+[2017-09-21 16:51:54] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-21 16:51:54] WARNING: <owner_email_address> not set
+[2017-09-21 16:51:54] Server started and is ready to accept connections!
+[2017-09-21 16:51:54] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-21 16:51:54] Type 'help' for a list of commands.
+[2017-09-21 16:52:35] * Syntax: restart <resource-name>
+[2017-09-21 16:52:39] restart: Requested by Console
+[2017-09-21 16:52:39] restart: Resource restarting...
+[2017-09-21 16:52:39] Stopping erpe
+[2017-09-21 16:52:39] Resource 'erpe' changed, reloading and starting
+[2017-09-21 16:52:39] WARNING: erpe/server.lua(Line 15) [Server] setPlayerSkin is deprecated and may not work in future versions. Please replace with setElementModel before Tuesday.
+[2017-09-21 16:52:39] Some files in 'erpe' use deprecated functions.
+[2017-09-21 16:52:39] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2017-09-21 16:52:39] Starting erpe
+[2017-09-21 16:52:39] SCRIPT ERROR: erpe\server.lua:15: 'then' expected near 'setPlayerSkin'
+[2017-09-21 16:52:39] ERROR: Loading script failed: erpe\server.lua:15: 'then' expected near 'setPlayerSkin'
+[2017-09-21 16:52:39] erpe restarted successfully
+[2017-09-21 16:53:29] restart: Requested by Console
+[2017-09-21 16:53:29] restart: Resource restarting...
+[2017-09-21 16:53:29] Stopping erpe
+[2017-09-21 16:53:29] Resource 'erpe' changed, reloading and starting
+[2017-09-21 16:53:29] Starting erpe
+[2017-09-21 16:53:29] SCRIPT ERROR: erpe\server.lua:15: 'then' expected near 'setElementModel'
+[2017-09-21 16:53:29] ERROR: Loading script failed: erpe\server.lua:15: 'then' expected near 'setElementModel'
+[2017-09-21 16:53:29] erpe restarted successfully
+[2017-09-21 16:53:41] restart: Requested by Console
+[2017-09-21 16:53:41] restart: Resource restarting...
+[2017-09-21 16:53:41] Stopping erpe
+[2017-09-21 16:53:41] Resource 'erpe' changed, reloading and starting
+[2017-09-21 16:53:41] Starting erpe
+[2017-09-21 16:53:41] erpe restarted successfully
+[2017-09-21 16:54:33] Server minclientversion is now 1.3.0-9.04311
+[2017-09-21 16:54:33] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 16:54:40] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 16:55:15] restart: Requested by Console
+[2017-09-21 16:55:15] restart: Resource restarting...
+[2017-09-21 16:55:15] Stopping erpe
+[2017-09-21 16:55:15] Starting erpe
+[2017-09-21 16:55:15] erpe restarted successfully
+[2017-09-21 16:55:20] CHAT: shlime: asd
+[2017-09-21 16:55:22] QUIT: shlime left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: 127.0.0.1
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-21 17:33:06] WARNING: Private IP '127.0.0.1' with ase enabled! Use: <serverip>auto</serverip>
+[2017-09-21 17:34:00] Resources: 195 loaded, 0 failed
+[2017-09-21 17:34:00] Starting resources...
+[2017-09-21 17:34:09] Server minclientversion is now 1.3.0-9.04311
+[2017-09-21 17:34:17] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:34:17] Querying MTA master server... failed! (7 Error downloading requested files. Couldn't connect to server. [Failed to connect to master.mtasa.com port 80: Network unreachable] [add.php?g=22003&a=22126&h=22005&v=1.5.4-9.11674&x=0_32_0_1_1&ip=127.0.0.1])
+[2017-09-21 17:34:17] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-21 17:34:17] WARNING: <owner_email_address> not set
+[2017-09-21 17:34:17] Server started and is ready to accept connections!
+[2017-09-21 17:34:17] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-21 17:34:17] Type 'help' for a list of commands.
+[2017-09-21 17:34:33] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 17:34:36] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 17:34:49] CHAT: shlime: setskin
+[2017-09-21 17:35:10] QUIT: shlime left the game [Quit]
+[2017-09-21 17:37:21] restart: Requested by Console
+[2017-09-21 17:37:21] restart: Resource restarting...
+[2017-09-21 17:37:21] Stopping erpe
+[2017-09-21 17:37:21] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:37:21] Starting erpe
+[2017-09-21 17:37:21] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:37:21] erpe restarted successfully
+[2017-09-21 17:37:27] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 17:37:27] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 17:37:30] CHAT: shlime: sad
+[2017-09-21 17:37:49] restart: Requested by Console
+[2017-09-21 17:37:49] restart: Resource restarting...
+[2017-09-21 17:37:49] Stopping erpe
+[2017-09-21 17:37:49] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:37:49] Starting erpe
+[2017-09-21 17:37:49] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:37:49] erpe restarted successfully
+[2017-09-21 17:38:08] CHAT: shlime: setskin 0 0
+[2017-09-21 17:41:03] restart: Requested by Console
+[2017-09-21 17:41:03] restart: Resource restarting...
+[2017-09-21 17:41:03] Stopping erpe
+[2017-09-21 17:41:03] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:41:03] Starting erpe
+[2017-09-21 17:41:03] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:41:03] erpe restarted successfully
+[2017-09-21 17:43:13] restart: Requested by Console
+[2017-09-21 17:43:13] restart: Resource restarting...
+[2017-09-21 17:43:13] Stopping erpe
+[2017-09-21 17:43:13] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:43:13] Starting erpe
+[2017-09-21 17:43:13] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:43:13] erpe restarted successfully
+[2017-09-21 17:43:18] QUIT: shlime left the game [Quit]
+[2017-09-21 17:43:22] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 17:43:22] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 17:43:41] restart: Requested by Console
+[2017-09-21 17:43:41] restart: Resource restarting...
+[2017-09-21 17:43:41] Stopping erpe
+[2017-09-21 17:43:41] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:43:41] Starting erpe
+[2017-09-21 17:43:41] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:43:41] erpe restarted successfully
+[2017-09-21 17:43:45] QUIT: shlime left the game [Quit]
+[2017-09-21 17:43:46] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 17:43:46] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 17:46:50] restart: Requested by Console
+[2017-09-21 17:46:50] restart: Resource restarting...
+[2017-09-21 17:46:50] Stopping erpe
+[2017-09-21 17:46:50] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:46:50] Starting erpe
+[2017-09-21 17:46:50] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:46:50] erpe restarted successfully
+[2017-09-21 17:46:53] QUIT: shlime left the game [Quit]
+[2017-09-21 17:46:56] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 17:46:56] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 17:51:39] restart: Requested by Console
+[2017-09-21 17:51:39] restart: Resource restarting...
+[2017-09-21 17:51:39] Stopping erpe
+[2017-09-21 17:51:39] Starting erpe
+[2017-09-21 17:51:39] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:51:39] erpe restarted successfully
+[2017-09-21 17:51:48] CHAT: shlime: setskin 0 0
+[2017-09-21 17:52:03] restart: Requested by Console
+[2017-09-21 17:52:03] restart: Resource restarting...
+[2017-09-21 17:52:03] Stopping erpe
+[2017-09-21 17:52:03] Starting erpe
+[2017-09-21 17:52:03] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:52:03] erpe restarted successfully
+[2017-09-21 17:53:26] restart: Requested by Console
+[2017-09-21 17:53:26] restart: Resource restarting...
+[2017-09-21 17:53:26] Stopping erpe
+[2017-09-21 17:53:26] Starting erpe
+[2017-09-21 17:53:26] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:53:26] erpe restarted successfully
+[2017-09-21 17:54:08] restart: Requested by Console
+[2017-09-21 17:54:08] restart: Resource restarting...
+[2017-09-21 17:54:08] Stopping erpe
+[2017-09-21 17:54:08] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:54:08] Starting erpe
+[2017-09-21 17:54:08] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:54:08] erpe restarted successfully
+[2017-09-21 17:54:27] restart: Requested by Console
+[2017-09-21 17:54:27] restart: Resource restarting...
+[2017-09-21 17:54:27] Stopping erpe
+[2017-09-21 17:54:27] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:54:27] Starting erpe
+[2017-09-21 17:54:27] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:54:27] erpe restarted successfully
+[2017-09-21 17:55:32] restart: Requested by Console
+[2017-09-21 17:55:32] restart: Resource restarting...
+[2017-09-21 17:55:32] Stopping erpe
+[2017-09-21 17:55:32] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:55:32] Starting erpe
+[2017-09-21 17:55:32] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:55:32] erpe restarted successfully
+[2017-09-21 17:55:49] QUIT: shlime left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: 127.0.0.1
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-21 17:56:10] WARNING: Private IP '127.0.0.1' with ase enabled! Use: <serverip>auto</serverip>
+[2017-09-21 17:56:38] Resources: 195 loaded, 0 failed
+[2017-09-21 17:56:39] Starting resources...
+[2017-09-21 17:56:46] Server minclientversion is now 1.3.0-9.04311
+[2017-09-21 17:56:55] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:56:55] Querying MTA master server... failed! (7 Error downloading requested files. Couldn't connect to server. [Failed to connect to master.mtasa.com port 80: Network unreachable] [add.php?g=22003&a=22126&h=22005&v=1.5.4-9.11674&x=0_32_0_1_1&ip=127.0.0.1])
+[2017-09-21 17:56:55] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-21 17:56:55] WARNING: <owner_email_address> not set
+[2017-09-21 17:56:55] Server started and is ready to accept connections!
+[2017-09-21 17:56:55] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-21 17:56:55] Type 'help' for a list of commands.
+[2017-09-21 17:57:25] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 17:57:26] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 17:59:07] restart: Requested by Console
+[2017-09-21 17:59:07] restart: Resource restarting...
+[2017-09-21 17:59:07] Stopping erpe
+[2017-09-21 17:59:07] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:59:07] Starting erpe
+[2017-09-21 17:59:07] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:59:07] erpe restarted successfully
+[2017-09-21 17:59:43] restart: Requested by Console
+[2017-09-21 17:59:43] restart: Resource restarting...
+[2017-09-21 17:59:43] Stopping erpe
+[2017-09-21 17:59:43] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:59:43] Starting erpe
+[2017-09-21 17:59:43] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:59:43] erpe restarted successfully
+[2017-09-21 17:59:57] restart: Requested by Console
+[2017-09-21 17:59:57] restart: Resource restarting...
+[2017-09-21 17:59:57] Stopping erpe
+[2017-09-21 17:59:57] Resource 'erpe' changed, reloading and starting
+[2017-09-21 17:59:57] Starting erpe
+[2017-09-21 17:59:57] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 17:59:57] erpe restarted successfully
+[2017-09-21 18:00:27] restart: Requested by Console
+[2017-09-21 18:00:27] restart: Resource restarting...
+[2017-09-21 18:00:27] Stopping erpe
+[2017-09-21 18:00:27] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:00:27] Starting erpe
+[2017-09-21 18:00:27] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:00:27] erpe restarted successfully
+[2017-09-21 18:03:16] restart: Requested by Console
+[2017-09-21 18:03:16] restart: Resource restarting...
+[2017-09-21 18:03:16] Stopping erpe
+[2017-09-21 18:03:16] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:03:16] Starting erpe
+[2017-09-21 18:03:16] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:03:16] erpe restarted successfully
+[2017-09-21 18:03:25] restart: Requested by Console
+[2017-09-21 18:03:25] restart: Resource restarting...
+[2017-09-21 18:03:25] Stopping erpe
+[2017-09-21 18:03:25] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:03:25] Starting erpe
+[2017-09-21 18:03:25] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:03:25] erpe restarted successfully
+[2017-09-21 18:05:09] restart: Requested by Console
+[2017-09-21 18:05:09] restart: Resource restarting...
+[2017-09-21 18:05:09] Stopping erpe
+[2017-09-21 18:05:09] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:05:09] Starting erpe
+[2017-09-21 18:05:09] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:05:09] erpe restarted successfully
+[2017-09-21 18:05:48] restart: Requested by Console
+[2017-09-21 18:05:48] restart: Resource restarting...
+[2017-09-21 18:05:48] Stopping erpe
+[2017-09-21 18:05:48] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:05:48] Starting erpe
+[2017-09-21 18:05:48] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:05:48] erpe restarted successfully
+[2017-09-21 18:07:06] restart: Resource could not be found
+[2017-09-21 18:07:10] restart: Requested by Console
+[2017-09-21 18:07:10] restart: Resource restarting...
+[2017-09-21 18:07:10] Stopping erpe
+[2017-09-21 18:07:10] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:07:10] Starting erpe
+[2017-09-21 18:07:10] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:07:10] erpe restarted successfully
+[2017-09-21 18:07:13] QUIT: shlime left the game [Quit]
+[2017-09-21 18:07:16] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 18:07:16] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 18:07:23] QUIT: shlime left the game [Quit]
+[2017-09-21 18:07:30] restart: Requested by Console
+[2017-09-21 18:07:30] restart: Resource restarting...
+[2017-09-21 18:07:30] Stopping erpe
+[2017-09-21 18:07:30] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:07:30] Starting erpe
+[2017-09-21 18:07:30] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:07:30] erpe restarted successfully
+[2017-09-21 18:07:35] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 18:07:35] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 18:09:46] QUIT: shlime left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-21 18:10:58] Resources: 195 loaded, 0 failed
+[2017-09-21 18:10:58] Starting resources...
+[2017-09-21 18:11:06] Server minclientversion is now 1.3.0-9.04311
+[2017-09-21 18:11:14] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:11:14] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-21 18:11:14] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-21 18:11:14] WARNING: <owner_email_address> not set
+[2017-09-21 18:11:14] Server started and is ready to accept connections!
+[2017-09-21 18:11:14] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-21 18:11:14] Type 'help' for a list of commands.
+[2017-09-21 18:11:21] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-21 18:11:21] CONNECT: pajszi connected (IP: 89.133.55.164  Serial: 133430AC53A6B147505728A50688E084  Version: 1.5.4-9.11674.2)
+[2017-09-21 18:11:23] JOIN: pajszi joined the game (IP: 89.133.55.164)
+[2017-09-21 18:11:31] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 18:11:31] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 18:12:34] QUIT: pajszi left the game [Quit]
+[2017-09-21 18:12:35] CONNECT: pajszi connected (IP: 89.133.55.164  Serial: 133430AC53A6B147505728A50688E084  Version: 1.5.4-9.11674.2)
+[2017-09-21 18:12:36] JOIN: pajszi joined the game (IP: 89.133.55.164)
+[2017-09-21 18:12:42] restart: Requested by Console
+[2017-09-21 18:12:42] restart: Resource restarting...
+[2017-09-21 18:12:42] Stopping erpe
+[2017-09-21 18:12:42] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:12:42] Starting erpe
+[2017-09-21 18:12:42] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:12:42] erpe restarted successfully
+[2017-09-21 18:14:17] QUIT: pajszi left the game [Quit]
+[2017-09-21 18:14:23] CONNECT: pajszi connected (IP: 89.133.55.164  Serial: 133430AC53A6B147505728A50688E084  Version: 1.5.4-9.11674.2)
+[2017-09-21 18:14:24] JOIN: pajszi joined the game (IP: 89.133.55.164)
+[2017-09-21 18:16:05] QUIT: pajszi left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-21 18:19:02] Resources: 195 loaded, 0 failed
+[2017-09-21 18:19:02] Starting resources...
+[2017-09-21 18:19:10] Server minclientversion is now 1.3.0-9.04311
+[2017-09-21 18:19:18] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:19:18] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-21 18:19:18] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-21 18:19:18] WARNING: <owner_email_address> not set
+[2017-09-21 18:19:18] Server started and is ready to accept connections!
+[2017-09-21 18:19:18] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-21 18:19:18] Type 'help' for a list of commands.
+[2017-09-21 18:19:25] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-21 18:19:25] CONNECT: pajszi connected (IP: 89.133.55.164  Serial: 133430AC53A6B147505728A50688E084  Version: 1.5.4-9.11674.2)
+[2017-09-21 18:19:25] JOIN: pajszi joined the game (IP: 89.133.55.164)
+[2017-09-21 18:19:44] DIAGNOSTIC: pajszi #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [admin/client/images/flags/ac.png] (Disabling External HTTP) [admin\client\images\flags\ac.png]
+[2017-09-21 18:19:44] DIAGNOSTIC: pajszi #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [admin/client/images/flags/ae.png] (Disabling External HTTP) [admin\client\images\flags\ad.png]
+[2017-09-21 18:19:44] DIAGNOSTIC: pajszi #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [admin/client/images/flags/ae.png] (Disabling External HTTP) [admin\client\images\flags\ae.png]
+[2017-09-21 18:22:44] QUIT: pajszi left the game [Quit]
+[2017-09-21 18:24:19] restart: Requested by Console
+[2017-09-21 18:24:19] restart: Resource restarting...
+[2017-09-21 18:24:19] Stopping erpe
+[2017-09-21 18:24:19] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:24:19] Starting erpe
+[2017-09-21 18:24:19] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:24:19] erpe restarted successfully
+[2017-09-21 18:24:30] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-21 18:24:30] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-21 18:24:39] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got number '0']
+[2017-09-21 18:24:39] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got number '0']
+[2017-09-21 18:24:39] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:24:40] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got number '0']
+[2017-09-21 18:24:40] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got number '0']
+[2017-09-21 18:24:40] ERROR: erpe\server.lua:18: attempt to concatenate local 'skin' (a nil value)
+[2017-09-21 18:24:42] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got number '0']
+[2017-09-21 18:24:42] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got number '0']
+[2017-09-21 18:24:42] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:24:48] WARNING: erpe\server.lua:17: Bad argument @ 'setElementModel' [Expected element at argument 1, got number '0']
+[2017-09-21 18:24:48] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got number '0']
+[2017-09-21 18:24:48] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:24:49] DIAGNOSTIC: shlime #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [erpe/client.lua] (Disabling External HTTP) [erpe\client.lua]
+[2017-09-21 18:26:19] restart: Requested by Console
+[2017-09-21 18:26:19] restart: Resource restarting...
+[2017-09-21 18:26:19] Stopping erpe
+[2017-09-21 18:26:20] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:26:20] Starting erpe
+[2017-09-21 18:26:20] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:26:20] erpe restarted successfully
+[2017-09-21 18:26:23] WARNING: erpe\server.lua:17: Bad argument @ 'setPedSkin' [Expected element at argument 1, got number '0']
+[2017-09-21 18:26:23] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got number '0']
+[2017-09-21 18:26:23] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:26:26] WARNING: erpe\server.lua:17: Bad argument @ 'setPedSkin' [Expected element at argument 1, got number '1']
+[2017-09-21 18:26:26] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got number '1']
+[2017-09-21 18:26:28] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:26:28] WARNING: erpe\server.lua:17: Bad argument @ 'setPedSkin' [Expected element at argument 1, got nil]
+[2017-09-21 18:26:28] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2017-09-21 18:26:28] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:26:34] WARNING: erpe\server.lua:17: Bad argument @ 'setPedSkin' [Expected element at argument 1, got nil]
+[2017-09-21 18:26:34] WARNING: erpe\server.lua:18: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2017-09-21 18:26:34] ERROR: erpe\server.lua:18: attempt to concatenate a boolean value
+[2017-09-21 18:26:45] restart: Requested by Console
+[2017-09-21 18:26:45] restart: Resource restarting...
+[2017-09-21 18:26:45] Stopping erpe
+[2017-09-21 18:26:45] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:26:45] Starting erpe
+[2017-09-21 18:26:45] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:26:45] erpe restarted successfully
+[2017-09-21 18:26:49] WARNING: erpe\server.lua:16: Bad argument @ 'setPedSkin' [Expected element at argument 1, got string '0']
+[2017-09-21 18:26:49] WARNING: erpe\server.lua:17: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '0']
+[2017-09-21 18:26:49] ERROR: erpe\server.lua:17: attempt to concatenate a boolean value
+[2017-09-21 18:26:55] WARNING: erpe\server.lua:16: Bad argument @ 'setPedSkin' [Expected element at argument 1, got string '0']
+[2017-09-21 18:26:55] WARNING: erpe\server.lua:17: Bad argument @ 'getPlayerName' [Expected element at argument 1, got string '0']
+[2017-09-21 18:26:55] ERROR: erpe\server.lua:17: attempt to concatenate a boolean value
+[2017-09-21 18:27:36] restart: Requested by Console
+[2017-09-21 18:27:36] restart: Resource restarting...
+[2017-09-21 18:27:36] Stopping erpe
+[2017-09-21 18:27:36] Resource 'erpe' changed, reloading and starting
+[2017-09-21 18:27:36] WARNING: erpe/client.lua(Line 7) [Client] setPedSkin is deprecated and may not work in future versions. Please replace with setElementModel.
+[2017-09-21 18:27:36] Some files in 'erpe' use deprecated functions.
+[2017-09-21 18:27:36] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2017-09-21 18:27:36] Starting erpe
+[2017-09-21 18:27:36] Gamemode 'ERPÉ szerver' started.
+[2017-09-21 18:27:36] erpe restarted successfully
