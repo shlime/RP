@@ -1181,3 +1181,482 @@
 [2017-09-22 08:37:09] Server stopped!
 [2017-09-22 08:37:09] Stopping resources......................
 [2017-09-22 08:37:10] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 08:37:49] Resources: 58 loaded, 0 failed
+[2017-09-22 08:37:49] Starting resources...
+[2017-09-22 08:37:57] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 08:38:05] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 08:38:05] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 08:38:05] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 08:38:05] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 08:38:05] WARNING: <owner_email_address> not set
+[2017-09-22 08:38:05] Server started and is ready to accept connections!
+[2017-09-22 08:38:05] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 08:38:05] Type 'help' for a list of commands.
+[2017-09-22 08:38:37] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 08:38:37] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 08:45:35] restart: Requested by Console
+[2017-09-22 08:45:35] restart: Resource restarting...
+[2017-09-22 08:45:35] Stopping erpe
+[2017-09-22 08:45:35] Resource 'erpe' changed, reloading and starting
+[2017-09-22 08:45:35] Starting erpe
+[2017-09-22 08:45:35] SCRIPT ERROR: erpe\server.lua:43: unexpected symbol near ')'
+[2017-09-22 08:45:35] ERROR: Loading script failed: erpe\server.lua:43: unexpected symbol near ')'
+[2017-09-22 08:45:35] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 08:45:35] erpe restarted successfully
+[2017-09-22 08:45:44] restart: Requested by Console
+[2017-09-22 08:45:44] restart: Resource restarting...
+[2017-09-22 08:45:44] Stopping erpe
+[2017-09-22 08:45:44] Resource 'erpe' changed, reloading and starting
+[2017-09-22 08:45:44] Starting erpe
+[2017-09-22 08:45:44] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 08:45:44] erpe restarted successfully
+[2017-09-22 08:49:08] ACL: Denied 'shlime' access to command 'restart'
+[2017-09-22 08:49:12] restart: Requested by Console
+[2017-09-22 08:49:12] restart: Resource restarting...
+[2017-09-22 08:49:12] Stopping erpe
+[2017-09-22 08:49:12] Resource 'erpe' changed, reloading and starting
+[2017-09-22 08:49:12] Starting erpe
+[2017-09-22 08:49:12] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 08:49:12] erpe restarted successfully
+[2017-09-22 09:09:55] QUIT: shlime left the game [Quit]
+[2017-09-22 09:10:10] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 09:10:10] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 09:26:28] Server stopped!
+[2017-09-22 09:26:28] Stopping resources......................
+[2017-09-22 09:26:28] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 09:27:06] Resources: 58 loaded, 0 failed
+[2017-09-22 09:27:06] MODULE: File not found - mods\deathmatch\modules\mta_mysql.dll
+[2017-09-22 09:27:06] Starting resources...
+[2017-09-22 09:27:13] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 09:27:20] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 09:27:20] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 09:27:20] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 09:27:20] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 09:27:20] WARNING: <owner_email_address> not set
+[2017-09-22 09:27:20] Server started and is ready to accept connections!
+[2017-09-22 09:27:20] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 09:27:20] Type 'help' for a list of commands.
+[2017-09-22 09:28:10] Server stopped!
+[2017-09-22 09:28:10] Stopping resources......................
+[2017-09-22 09:28:10] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 09:28:35] Resources: 58 loaded, 0 failed
+[2017-09-22 09:28:36] MODULE: File not 32 bit - mods\deathmatch\modules\mta_mysql.dll
+[2017-09-22 09:28:36] Starting resources...
+[2017-09-22 09:28:43] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 09:28:51] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 09:28:51] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 09:28:51] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 09:28:51] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 09:28:51] WARNING: <owner_email_address> not set
+[2017-09-22 09:28:51] Server started and is ready to accept connections!
+[2017-09-22 09:28:51] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 09:28:51] Type 'help' for a list of commands.
+[2017-09-22 09:29:12] Server stopped!
+[2017-09-22 09:29:12] Stopping resources......................
+[2017-09-22 09:29:12] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 09:29:42] Resources: 58 loaded, 0 failed
+[2017-09-22 09:29:42] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 09:29:42] Starting resources...
+[2017-09-22 09:29:49] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 09:29:57] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 09:29:57] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 09:29:57] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 09:29:57] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 09:29:57] WARNING: <owner_email_address> not set
+[2017-09-22 09:29:57] Server started and is ready to accept connections!
+[2017-09-22 09:29:57] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 09:29:57] Type 'help' for a list of commands.
+[2017-09-22 09:30:10] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 09:30:10] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 09:55:09] Server stopped!
+[2017-09-22 09:55:09] Stopping resources......................
+[2017-09-22 09:55:09] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 09:55:09] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 09:57:35] ERROR: Couldn't find script mysql/server.lua for resource erpe
+[2017-09-22 09:57:35] Loading of resource 'erpe' failed
+[2017-09-22 09:57:41] Resources: 57 loaded, 0 failed
+[2017-09-22 09:57:41] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 09:57:41] Starting resources...==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 09:58:24] Resources: 58 loaded, 0 failed
+[2017-09-22 09:58:24] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 09:58:24] Starting resources...
+[2017-09-22 09:58:32] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 09:58:39] INFO: Sikeres kapcsolódás a MySQL szerverhez.
+[2017-09-22 09:58:39] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 09:58:39] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 09:58:39] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 09:58:39] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 09:58:39] WARNING: <owner_email_address> not set
+[2017-09-22 09:58:39] Server started and is ready to accept connections!
+[2017-09-22 09:58:39] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 09:58:39] Type 'help' for a list of commands.
+[2017-09-22 10:04:28] Server stopped!
+[2017-09-22 10:04:28] Stopping resources......................
+[2017-09-22 10:04:28] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:04:28] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 10:04:55] Resources: 58 loaded, 0 failed
+[2017-09-22 10:04:55] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:04:55] Starting resources...
+[2017-09-22 10:05:02] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 10:05:10] INFO: Connection with database was successfully established.
+[2017-09-22 10:05:10] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 10:05:10] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 10:05:10] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 10:05:10] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 10:05:10] WARNING: <owner_email_address> not set
+[2017-09-22 10:05:10] Server started and is ready to accept connections!
+[2017-09-22 10:05:10] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 10:05:10] Type 'help' for a list of commands.
+[2017-09-22 10:19:48] Server stopped!
+[2017-09-22 10:19:48] Stopping resources......................
+[2017-09-22 10:19:48] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:19:48] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 10:20:16] Resources: 58 loaded, 0 failed
+[2017-09-22 10:20:16] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:20:16] Starting resources...
+[2017-09-22 10:20:23] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 10:20:31] SCRIPT ERROR: erpe\server.lua:8: ')' expected (to close '(' at line 7) near 'createTables'
+[2017-09-22 10:20:31] ERROR: Loading script failed: erpe\server.lua:8: ')' expected (to close '(' at line 7) near 'createTables'
+[2017-09-22 10:20:31] SCRIPT ERROR: erpe\mysql\mysql.lua:24: ')' expected (to close '(' at line 23) near 'end'
+[2017-09-22 10:20:31] ERROR: Loading script failed: erpe\mysql\mysql.lua:24: ')' expected (to close '(' at line 23) near 'end'
+[2017-09-22 10:20:31] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 10:20:31] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 10:20:31] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 10:20:31] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 10:20:31] WARNING: <owner_email_address> not set
+[2017-09-22 10:20:31] Server started and is ready to accept connections!
+[2017-09-22 10:20:31] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 10:20:31] Type 'help' for a list of commands.
+[2017-09-22 10:21:01] Server stopped!
+[2017-09-22 10:21:01] Stopping resources......................
+[2017-09-22 10:21:01] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:21:01] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 10:21:28] Resources: 58 loaded, 0 failed
+[2017-09-22 10:21:28] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:21:28] Starting resources...
+[2017-09-22 10:21:36] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 10:21:43] ERROR: erpe\server.lua:8: attempt to call global 'createTables' (a nil value)
+[2017-09-22 10:21:43] INFO: Connection with database was successfully established.
+[2017-09-22 10:21:43] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 10:21:43] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 10:21:44] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 10:21:44] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 10:21:44] WARNING: <owner_email_address> not set
+[2017-09-22 10:21:44] Server started and is ready to accept connections!
+[2017-09-22 10:21:44] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 10:21:44] Type 'help' for a list of commands.
+[2017-09-22 10:21:59] Server stopped!
+[2017-09-22 10:21:59] Stopping resources......................
+[2017-09-22 10:21:59] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:21:59] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 10:22:45] Resources: 58 loaded, 0 failed
+[2017-09-22 10:22:45] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:22:45] Starting resources...
+[2017-09-22 10:22:53] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 10:23:01] INFO: Connection with database was successfully established.
+[2017-09-22 10:23:01] WARNING: erpe\mysql\mysql.lua:20: Bad argument @ 'dbQuery' [Expected db-connection at argument 1, got string 'CREATE TABLE IF NOT EXISTS felhasznalok (fnev TEXT, jelszo TEXT, date_reg DATETIME, date_lastlog DATETIME']
+[2017-09-22 10:23:01] WARNING: erpe\mysql\mysql.lua:21: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got boolean]
+[2017-09-22 10:23:01] WARNING: erpe\mysql\mysql.lua:26: Bad argument @ 'dbQuery' [Expected db-connection at argument 1, got string 'CREATE TABLE IF NOT EXISTS karakterek (keresztnev TEXT, vezeteknev TEXT, kor INT']
+[2017-09-22 10:23:01] WARNING: erpe\mysql\mysql.lua:27: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got boolean]
+[2017-09-22 10:23:01] WARNING: erpe\server.lua:7: Bad argument @ 'addEventHandler' [Expected function at argument 3, got none]
+[2017-09-22 10:23:01] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 10:23:01] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 10:23:01] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 10:23:01] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 10:23:01] WARNING: <owner_email_address> not set
+[2017-09-22 10:23:01] Server started and is ready to accept connections!
+[2017-09-22 10:23:01] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 10:23:01] Type 'help' for a list of commands.
+[2017-09-22 10:24:00] Server stopped!
+[2017-09-22 10:24:01] Stopping resources......................
+[2017-09-22 10:24:01] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:24:01] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 10:24:28] Resources: 58 loaded, 0 failed
+[2017-09-22 10:24:28] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:24:28] Starting resources...
+[2017-09-22 10:24:35] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 10:24:43] INFO: Connection with database was successfully established.
+[2017-09-22 10:24:43] WARNING: erpe\mysql\mysql.lua:20: Bad argument @ 'dbQuery' [Expected db-connection at argument 1, got string 'CREATE TABLE IF NOT EXISTS felhasznalok (fnev TEXT, jelszo TEXT, date_reg DATETIME, date_lastlog DATETIME)']
+[2017-09-22 10:24:43] WARNING: erpe\mysql\mysql.lua:21: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got boolean]
+[2017-09-22 10:24:43] WARNING: erpe\mysql\mysql.lua:26: Bad argument @ 'dbQuery' [Expected db-connection at argument 1, got string 'CREATE TABLE IF NOT EXISTS karakterek (keresztnev TEXT, vezeteknev TEXT, kor INT)']
+[2017-09-22 10:24:43] WARNING: erpe\mysql\mysql.lua:27: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got boolean]
+[2017-09-22 10:24:43] WARNING: erpe\server.lua:7: Bad argument @ 'addEventHandler' [Expected function at argument 3, got none]
+[2017-09-22 10:24:43] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 10:24:43] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 10:24:43] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 10:24:43] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 10:24:43] WARNING: <owner_email_address> not set
+[2017-09-22 10:24:43] Server started and is ready to accept connections!
+[2017-09-22 10:24:43] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 10:24:43] Type 'help' for a list of commands.
+[2017-09-22 10:25:45] Server stopped!
+[2017-09-22 10:25:45] Stopping resources......................
+[2017-09-22 10:25:45] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:25:45] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 10:26:18] Resources: 58 loaded, 0 failed
+[2017-09-22 10:26:18] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:26:18] Starting resources...
+[2017-09-22 10:26:27] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 10:26:35] INFO: Connection with database was successfully established.
+[2017-09-22 10:26:35] INFO: table: 053ACC70
+[2017-09-22 10:26:35] INFO: table: 053ACE78
+[2017-09-22 10:26:35] WARNING: erpe\server.lua:7: Bad argument @ 'addEventHandler' [Expected function at argument 3, got none]
+[2017-09-22 10:26:35] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 10:26:35] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 10:26:35] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 10:26:35] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 10:26:35] WARNING: <owner_email_address> not set
+[2017-09-22 10:26:35] Server started and is ready to accept connections!
+[2017-09-22 10:26:35] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 10:26:35] Type 'help' for a list of commands.
+[2017-09-22 10:30:58] Server stopped!
+[2017-09-22 10:30:58] Stopping resources......................
+[2017-09-22 10:30:58] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:30:58] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 10:31:28] Resources: 58 loaded, 0 failed
+[2017-09-22 10:31:28] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 10:31:28] Starting resources...
+[2017-09-22 10:31:35] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 10:31:43] INFO: Connection with database was successfully established.
+[2017-09-22 10:31:43] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 10:31:43] INFO: table: 04953E70
+[2017-09-22 10:31:43] INFO: table: 04954500
+[2017-09-22 10:31:43] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 10:31:43] INFO: table: 049542D0
+[2017-09-22 10:31:43] INFO: table: 049542F8
+[2017-09-22 10:31:43] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 10:31:43] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 10:31:43] WARNING: <owner_email_address> not set
+[2017-09-22 10:31:43] Server started and is ready to accept connections!
+[2017-09-22 10:31:43] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 10:31:43] Type 'help' for a list of commands.
+[2017-09-22 10:56:54] restart: Resource could not be found
+[2017-09-22 10:56:56] restart: Requested by Console
+[2017-09-22 10:56:56] restart: Resource restarting...
+[2017-09-22 10:56:56] Stopping erpe
+[2017-09-22 10:56:56] Resource 'erpe' changed, reloading and starting
+[2017-09-22 10:56:56] Starting erpe
+[2017-09-22 10:56:56] INFO: Connection with database was successfully established.
+[2017-09-22 10:56:56] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 10:56:56] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 10:56:56] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 10:56:56] erpe restarted successfully
+[2017-09-22 10:57:22] restart: Requested by Console
+[2017-09-22 10:57:22] restart: Resource restarting...
+[2017-09-22 10:57:22] Stopping erpe
+[2017-09-22 10:57:22] Starting erpe
+[2017-09-22 10:57:22] INFO: Connection with database was successfully established.
+[2017-09-22 10:57:22] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 10:57:22] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 10:57:22] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 10:57:22] erpe restarted successfully
+[2017-09-22 10:57:32] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 10:57:33] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 10:57:53] DIAGNOSTIC: shlime #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [erpe/client/client.lua] (Disabling External HTTP) [erpe\client\client.lua]
+[2017-09-22 10:57:53] DIAGNOSTIC: shlime #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [erpe/client/loginpanel.lua] (Disabling External HTTP) [erpe\client\loginpanel.lua]
+[2017-09-22 10:57:57] QUIT: shlime left the game [Quit]
+[2017-09-22 10:58:01] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 10:58:01] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 10:58:33] restart: Requested by Console
+[2017-09-22 10:58:33] restart: Resource restarting...
+[2017-09-22 10:58:33] Stopping erpe
+[2017-09-22 10:58:33] Resource 'erpe' changed, reloading and starting
+[2017-09-22 10:58:33] Starting erpe
+[2017-09-22 10:58:33] INFO: Connection with database was successfully established.
+[2017-09-22 10:58:33] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 10:58:33] erpe restarted successfully
+[2017-09-22 10:58:39] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 10:58:39] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 10:58:51] DIAGNOSTIC: shlime #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [erpe/client/loginpanel.lua] (Disabling External HTTP) [erpe\client\loginpanel.lua]
+[2017-09-22 10:58:53] QUIT: shlime left the game [Quit]
+[2017-09-22 10:58:56] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 10:58:56] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 10:59:35] restart: Requested by Console
+[2017-09-22 10:59:35] restart: Resource restarting...
+[2017-09-22 10:59:35] Stopping erpe
+[2017-09-22 10:59:35] Resource 'erpe' changed, reloading and starting
+[2017-09-22 10:59:35] Starting erpe
+[2017-09-22 10:59:35] INFO: Connection with database was successfully established.
+[2017-09-22 10:59:35] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 10:59:35] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 10:59:35] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 10:59:35] erpe restarted successfully
+[2017-09-22 10:59:39] QUIT: shlime left the game [Quit]
+[2017-09-22 10:59:42] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 10:59:42] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 11:00:02] DIAGNOSTIC: shlime #1012 External HTTP file download error:[28] Error downloading requested files. Timeout was reached. [Connection timed out after 6000 milliseconds] [erpe/client/loginpanel.lua] (Disabling External HTTP) [erpe\client\loginpanel.lua]
+[2017-09-22 11:00:05] QUIT: shlime left the game [Quit]
+[2017-09-22 11:00:08] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:00:09] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 11:03:34] Server stopped!
+[2017-09-22 11:03:34] Stopping resources......................
+[2017-09-22 11:03:34] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 11:03:34] Closing SQLite3 database

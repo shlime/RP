@@ -1,6 +1,14 @@
 root = getRootElement()
 MAX_PLAYERS = 32
 
+local components = { "weapon", "ammo", "health", "clock", "money", "breath", "armour", "wanted" }
+
+pInfo = { } -- TÖMB
+
+function mysqlQueriesOnStart(res)
+	createTables()
+end
+addEventHandler("onResourceStart", root, mysqlQueriesOnStart)
 
 addEventHandler("onPlayerJoin", root,
 	function ()
@@ -8,7 +16,10 @@ addEventHandler("onPlayerJoin", root,
 		setCameraTarget(source, source)
 		fadeCamera(source, true)
 		outputChatBox("Szia barát! Üdv Diószeg legjobb erpé szerverén..", source)
-		setPlayerNametagShowing ( source, false ) 
+		setPlayerNametagShowing ( source,  false ) 
+		for _, component in ipairs( components ) do
+			setPlayerHudComponentVisible(source, component, false )
+		end
 	end
 )
 

@@ -1,8 +1,19 @@
 <meta>
 	<info author="shlimenwalnut" type="gamemode" name="ERPÉ szerver" description="Slajm és Dió erpé szervere" />
-	<script src="server.lua" type="server" />
+
+	<!-- TOOLS -->
+	<script src="mysql/mysql.lua" type="server" />
+
+	<!-- SERVER SIDE -->
+	<script src="server/server.lua" type="server" />
 	<script src="idsys.lua" type="server" />
-	<script src="client.lua" type="client" />
+
+	<!-- CLIENT SIDE -->
+	<script src="client/client.lua" type="client" />
+	<script src="client/loginpanel.lua" type="client" />
+
+
 
 	<export function="getPlayerFromID" type="server" />
+	<export function="createTables" type="server" />
 </meta>
