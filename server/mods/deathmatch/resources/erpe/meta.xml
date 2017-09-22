@@ -4,16 +4,19 @@
 	<!-- TOOLS -->
 	<script src="mysql/mysql.lua" type="server" />
 
+	<!-- FILES -->
+	<file src="gui/login.png" />
+
 	<!-- SERVER SIDE -->
 	<script src="server/server.lua" type="server" />
 	<script src="idsys.lua" type="server" />
 
 	<!-- CLIENT SIDE -->
 	<script src="client/client.lua" type="client" />
+	<script src="client/informationpanel.lua" type="client" />
 	<script src="client/loginpanel.lua" type="client" />
 
-
-
+	<!-- EXPORTS -->
 	<export function="getPlayerFromID" type="server" />
 	<export function="createTables" type="server" />
 </meta>

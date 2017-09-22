@@ -1660,3 +1660,1513 @@
 [2017-09-22 11:03:34] Stopping resources......................
 [2017-09-22 11:03:34] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
 [2017-09-22 11:03:34] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 11:04:06] Resources: 58 loaded, 0 failed
+[2017-09-22 11:04:06] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 11:04:06] Starting resources...
+[2017-09-22 11:04:15] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 11:04:24] INFO: Connection with database was successfully established.
+[2017-09-22 11:04:24] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:04:24] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:04:24] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:04:24] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 11:04:24] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 11:04:24] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 11:04:24] WARNING: <owner_email_address> not set
+[2017-09-22 11:04:24] Server started and is ready to accept connections!
+[2017-09-22 11:04:24] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 11:04:24] Type 'help' for a list of commands.
+[2017-09-22 11:04:30] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:04:30] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:04:34] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:04:34] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 11:04:56] restart: Requested by Console
+[2017-09-22 11:04:56] restart: Resource restarting...
+[2017-09-22 11:04:56] Stopping erpe
+[2017-09-22 11:04:56] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:04:56] Starting erpe
+[2017-09-22 11:04:56] INFO: Connection with database was successfully established.
+[2017-09-22 11:04:56] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:04:56] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:04:56] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:04:56] erpe restarted successfully
+[2017-09-22 11:05:03] QUIT: shlime left the game [Quit]
+[2017-09-22 11:05:10] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:05:10] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 11:05:35] restart: Requested by Console
+[2017-09-22 11:05:35] restart: Resource restarting...
+[2017-09-22 11:05:35] Stopping erpe
+[2017-09-22 11:05:35] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:05:35] Starting erpe
+[2017-09-22 11:05:35] INFO: Connection with database was successfully established.
+[2017-09-22 11:05:35] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:05:35] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:05:35] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:05:35] erpe restarted successfully
+[2017-09-22 11:05:50] QUIT: shlime left the game [Quit]
+[2017-09-22 11:05:52] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:05:53] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 11:06:46] restart: Requested by Console
+[2017-09-22 11:06:46] restart: Resource restarting...
+[2017-09-22 11:06:46] Stopping erpe
+[2017-09-22 11:06:46] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:06:46] Starting erpe
+[2017-09-22 11:06:46] INFO: Connection with database was successfully established.
+[2017-09-22 11:06:46] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:06:46] erpe restarted successfully
+[2017-09-22 11:06:49] QUIT: shlime left the game [Quit]
+[2017-09-22 11:06:52] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:06:52] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:06:53] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:06:53] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 11:08:58] restart: Requested by Console
+[2017-09-22 11:08:58] restart: Resource restarting...
+[2017-09-22 11:08:58] Stopping erpe
+[2017-09-22 11:08:58] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:08:58] Starting erpe
+[2017-09-22 11:08:58] INFO: Connection with database was successfully established.
+[2017-09-22 11:08:58] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:08:58] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:08:58] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:08:58] erpe restarted successfully
+[2017-09-22 11:11:28] restart: Requested by Console
+[2017-09-22 11:11:28] restart: Resource restarting...
+[2017-09-22 11:11:28] Stopping erpe
+[2017-09-22 11:11:28] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:11:28] Starting erpe
+[2017-09-22 11:11:28] INFO: Connection with database was successfully established.
+[2017-09-22 11:11:28] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:11:28] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:11:28] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:11:28] erpe restarted successfully
+[2017-09-22 11:11:31] QUIT: shlime left the game [Quit]
+[2017-09-22 11:11:34] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:11:34] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 11:11:34] WARNING: erpe\server\server.lua:18: Bad argument @ 'setPlayerHudComponentVisible' [Expected hud-component at argument 2, got boolean]
+[2017-09-22 11:12:50] restart: Requested by Console
+[2017-09-22 11:12:50] restart: Resource restarting...
+[2017-09-22 11:12:50] Stopping erpe
+[2017-09-22 11:12:50] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:12:50] Starting erpe
+[2017-09-22 11:12:50] INFO: Connection with database was successfully established.
+[2017-09-22 11:12:50] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:12:50] erpe restarted successfully
+[2017-09-22 11:12:55] QUIT: shlime left the game [Quit]
+[2017-09-22 11:12:56] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:12:56] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:12:56] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:12:56] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 11:12:56] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'weapon']
+[2017-09-22 11:12:56] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'ammo']
+[2017-09-22 11:12:56] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'health']
+[2017-09-22 11:12:56] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'clock']
+[2017-09-22 11:12:56] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'money']
+[2017-09-22 11:12:56] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'breath']
+[2017-09-22 11:12:56] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'armour']
+[2017-09-22 11:12:56] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'wanted']
+[2017-09-22 11:13:02] QUIT: shlime left the game [Quit]
+[2017-09-22 11:13:07] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:13:07] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 11:13:07] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'weapon']
+[2017-09-22 11:13:07] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'ammo']
+[2017-09-22 11:13:07] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'health']
+[2017-09-22 11:13:07] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'clock']
+[2017-09-22 11:13:07] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'money']
+[2017-09-22 11:13:07] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'breath']
+[2017-09-22 11:13:07] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'armour']
+[2017-09-22 11:13:07] WARNING: erpe\server\server.lua:21: Bad argument @ 'setPlayerHudComponentVisible' [Expected element at argument 1, got string 'wanted']
+[2017-09-22 11:14:24] restart: Requested by Console
+[2017-09-22 11:14:24] restart: Resource restarting...
+[2017-09-22 11:14:24] Stopping erpe
+[2017-09-22 11:14:24] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:14:24] Starting erpe
+[2017-09-22 11:14:24] INFO: Connection with database was successfully established.
+[2017-09-22 11:14:24] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:14:24] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:14:24] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:14:24] erpe restarted successfully
+[2017-09-22 11:14:28] QUIT: shlime left the game [Quit]
+[2017-09-22 11:14:32] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:14:32] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 11:15:17] restart: Requested by Console
+[2017-09-22 11:15:17] restart: Resource restarting...
+[2017-09-22 11:15:17] Stopping erpe
+[2017-09-22 11:15:17] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:15:17] Starting erpe
+[2017-09-22 11:15:17] INFO: Connection with database was successfully established.
+[2017-09-22 11:15:17] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:15:17] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:15:17] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:15:17] erpe restarted successfully
+[2017-09-22 11:15:38] restart: Requested by Console
+[2017-09-22 11:15:38] restart: Resource restarting...
+[2017-09-22 11:15:38] Stopping erpe
+[2017-09-22 11:15:38] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:15:38] Starting erpe
+[2017-09-22 11:15:38] INFO: Connection with database was successfully established.
+[2017-09-22 11:15:38] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:15:38] erpe restarted successfully
+[2017-09-22 11:15:44] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:15:44] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:15:51] restart: Requested by Console
+[2017-09-22 11:15:51] restart: Resource restarting...
+[2017-09-22 11:15:51] Stopping erpe
+[2017-09-22 11:15:51] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:15:51] Starting erpe
+[2017-09-22 11:15:51] INFO: Connection with database was successfully established.
+[2017-09-22 11:15:51] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:15:51] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:15:51] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:15:51] erpe restarted successfully
+[2017-09-22 11:16:09] ACL: Denied 'shlime' access to command 'restart'
+[2017-09-22 11:16:16] restart: Requested by Console
+[2017-09-22 11:16:16] restart: Resource restarting...
+[2017-09-22 11:16:16] Stopping erpe
+[2017-09-22 11:16:16] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:16:16] Starting erpe
+[2017-09-22 11:16:16] INFO: Connection with database was successfully established.
+[2017-09-22 11:16:16] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:16:16] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:16:16] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:16:16] erpe restarted successfully
+[2017-09-22 11:16:30] restart: Requested by Console
+[2017-09-22 11:16:30] restart: Resource restarting...
+[2017-09-22 11:16:30] Stopping erpe
+[2017-09-22 11:16:30] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:16:30] Starting erpe
+[2017-09-22 11:16:30] INFO: Connection with database was successfully established.
+[2017-09-22 11:16:30] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:16:30] erpe restarted successfully
+[2017-09-22 11:16:36] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:16:36] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:18:40] restart: Requested by Console
+[2017-09-22 11:18:40] restart: Resource restarting...
+[2017-09-22 11:18:40] Stopping erpe
+[2017-09-22 11:18:40] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:18:40] Starting erpe
+[2017-09-22 11:18:40] INFO: Connection with database was successfully established.
+[2017-09-22 11:18:40] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:18:40] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:18:40] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:18:40] erpe restarted successfully
+[2017-09-22 11:19:10] restart: Requested by Console
+[2017-09-22 11:19:10] restart: Resource restarting...
+[2017-09-22 11:19:10] Stopping erpe
+[2017-09-22 11:19:10] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:19:10] Starting erpe
+[2017-09-22 11:19:10] INFO: Connection with database was successfully established.
+[2017-09-22 11:19:10] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:19:10] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:19:10] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:19:10] erpe restarted successfully
+[2017-09-22 11:19:49] restart: Requested by Console
+[2017-09-22 11:19:49] restart: Resource restarting...
+[2017-09-22 11:19:49] Stopping erpe
+[2017-09-22 11:19:49] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:19:49] Starting erpe
+[2017-09-22 11:19:49] INFO: Connection with database was successfully established.
+[2017-09-22 11:19:49] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:19:49] erpe restarted successfully
+[2017-09-22 11:19:55] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:19:55] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:20:22] restart: Requested by Console
+[2017-09-22 11:20:22] restart: Resource restarting...
+[2017-09-22 11:20:22] Stopping erpe
+[2017-09-22 11:20:22] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:20:22] Starting erpe
+[2017-09-22 11:20:22] INFO: Connection with database was successfully established.
+[2017-09-22 11:20:22] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:20:22] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:20:22] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:20:22] erpe restarted successfully
+[2017-09-22 11:20:31] restart: Requested by Console
+[2017-09-22 11:20:31] restart: Resource restarting...
+[2017-09-22 11:20:31] Stopping erpe
+[2017-09-22 11:20:31] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:20:31] Starting erpe
+[2017-09-22 11:20:31] INFO: Connection with database was successfully established.
+[2017-09-22 11:20:31] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:20:31] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:20:31] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:20:31] erpe restarted successfully
+[2017-09-22 11:21:26] restart: Requested by Console
+[2017-09-22 11:21:26] restart: Resource restarting...
+[2017-09-22 11:21:26] Stopping erpe
+[2017-09-22 11:21:26] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:21:26] Starting erpe
+[2017-09-22 11:21:26] INFO: Connection with database was successfully established.
+[2017-09-22 11:21:26] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:21:26] erpe restarted successfully
+[2017-09-22 11:21:32] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:21:32] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:21:49] restart: Resource could not be found
+[2017-09-22 11:21:52] restart: Requested by Console
+[2017-09-22 11:21:52] restart: Resource restarting...
+[2017-09-22 11:21:52] Stopping erpe
+[2017-09-22 11:21:52] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:21:52] Starting erpe
+[2017-09-22 11:21:52] INFO: Connection with database was successfully established.
+[2017-09-22 11:21:52] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:21:52] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:21:52] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:21:52] erpe restarted successfully
+[2017-09-22 11:22:10] restart: Requested by Console
+[2017-09-22 11:22:10] restart: Resource restarting...
+[2017-09-22 11:22:10] Stopping erpe
+[2017-09-22 11:22:10] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:22:10] Starting erpe
+[2017-09-22 11:22:10] INFO: Connection with database was successfully established.
+[2017-09-22 11:22:10] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:22:10] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:22:10] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:22:10] erpe restarted successfully
+[2017-09-22 11:22:23] restart: Requested by Console
+[2017-09-22 11:22:23] restart: Resource restarting...
+[2017-09-22 11:22:23] Stopping erpe
+[2017-09-22 11:22:23] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:22:23] Starting erpe
+[2017-09-22 11:22:23] INFO: Connection with database was successfully established.
+[2017-09-22 11:22:23] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:22:23] erpe restarted successfully
+[2017-09-22 11:22:29] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:22:29] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:22:46] restart: Requested by Console
+[2017-09-22 11:22:46] restart: Resource restarting...
+[2017-09-22 11:22:46] Stopping erpe
+[2017-09-22 11:22:46] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:22:46] Starting erpe
+[2017-09-22 11:22:46] INFO: Connection with database was successfully established.
+[2017-09-22 11:22:46] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:22:46] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:22:46] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:22:46] erpe restarted successfully
+[2017-09-22 11:22:54] restart: Requested by Console
+[2017-09-22 11:22:54] restart: Resource restarting...
+[2017-09-22 11:22:54] Stopping erpe
+[2017-09-22 11:22:54] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:22:54] Starting erpe
+[2017-09-22 11:22:54] INFO: Connection with database was successfully established.
+[2017-09-22 11:22:54] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:22:54] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:22:54] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:22:54] erpe restarted successfully
+[2017-09-22 11:23:12] restart: Requested by Console
+[2017-09-22 11:23:12] restart: Resource restarting...
+[2017-09-22 11:23:12] Stopping erpe
+[2017-09-22 11:23:12] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:23:12] Starting erpe
+[2017-09-22 11:23:12] INFO: Connection with database was successfully established.
+[2017-09-22 11:23:12] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:23:12] erpe restarted successfully
+[2017-09-22 11:23:18] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:23:18] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:25:37] restart: Requested by Console
+[2017-09-22 11:25:37] restart: Resource restarting...
+[2017-09-22 11:25:37] Stopping erpe
+[2017-09-22 11:25:37] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:25:37] Starting erpe
+[2017-09-22 11:25:37] INFO: Connection with database was successfully established.
+[2017-09-22 11:25:37] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:25:37] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:25:37] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:25:37] erpe restarted successfully
+[2017-09-22 11:26:59] restart: Requested by Console
+[2017-09-22 11:26:59] restart: Resource restarting...
+[2017-09-22 11:26:59] Stopping erpe
+[2017-09-22 11:26:59] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:26:59] Starting erpe
+[2017-09-22 11:26:59] INFO: Connection with database was successfully established.
+[2017-09-22 11:26:59] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:26:59] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:26:59] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:26:59] erpe restarted successfully
+[2017-09-22 11:28:17] restart: Requested by Console
+[2017-09-22 11:28:17] restart: Resource restarting...
+[2017-09-22 11:28:17] Stopping erpe
+[2017-09-22 11:28:17] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:28:17] Starting erpe
+[2017-09-22 11:28:17] INFO: Connection with database was successfully established.
+[2017-09-22 11:28:17] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:28:17] erpe restarted successfully
+[2017-09-22 11:28:23] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:28:23] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:28:27] restart: Requested by Console
+[2017-09-22 11:28:27] restart: Resource restarting...
+[2017-09-22 11:28:27] Stopping erpe
+[2017-09-22 11:28:27] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:28:27] Starting erpe
+[2017-09-22 11:28:27] INFO: Connection with database was successfully established.
+[2017-09-22 11:28:27] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:28:27] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:28:27] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:28:27] erpe restarted successfully
+[2017-09-22 11:30:11] restart: Requested by Console
+[2017-09-22 11:30:11] restart: Resource restarting...
+[2017-09-22 11:30:11] Stopping erpe
+[2017-09-22 11:30:11] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:30:11] Starting erpe
+[2017-09-22 11:30:11] INFO: Connection with database was successfully established.
+[2017-09-22 11:30:11] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:30:11] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:30:11] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:30:11] erpe restarted successfully
+[2017-09-22 11:30:34] restart: Requested by Console
+[2017-09-22 11:30:34] restart: Resource restarting...
+[2017-09-22 11:30:34] Stopping erpe
+[2017-09-22 11:30:34] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:30:34] Starting erpe
+[2017-09-22 11:30:34] INFO: Connection with database was successfully established.
+[2017-09-22 11:30:34] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:30:34] erpe restarted successfully
+[2017-09-22 11:30:40] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:30:40] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:31:32] restart: Requested by Console
+[2017-09-22 11:31:32] restart: Resource restarting...
+[2017-09-22 11:31:32] Stopping erpe
+[2017-09-22 11:31:32] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:31:32] Starting erpe
+[2017-09-22 11:31:32] INFO: Connection with database was successfully established.
+[2017-09-22 11:31:32] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:31:32] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:31:32] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:31:32] erpe restarted successfully
+[2017-09-22 11:31:47] restart: Requested by Console
+[2017-09-22 11:31:47] restart: Resource restarting...
+[2017-09-22 11:31:47] Stopping erpe
+[2017-09-22 11:31:47] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:31:47] Starting erpe
+[2017-09-22 11:31:47] INFO: Connection with database was successfully established.
+[2017-09-22 11:31:47] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:31:47] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:31:47] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:31:47] erpe restarted successfully
+[2017-09-22 11:32:03] restart: Requested by Console
+[2017-09-22 11:32:03] restart: Resource restarting...
+[2017-09-22 11:32:03] Stopping erpe
+[2017-09-22 11:32:03] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:32:03] Starting erpe
+[2017-09-22 11:32:03] INFO: Connection with database was successfully established.
+[2017-09-22 11:32:03] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:32:03] erpe restarted successfully
+[2017-09-22 11:32:09] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:32:09] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:33:03] restart: Requested by Console
+[2017-09-22 11:33:03] restart: Resource restarting...
+[2017-09-22 11:33:03] Stopping erpe
+[2017-09-22 11:33:03] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:33:03] Starting erpe
+[2017-09-22 11:33:03] INFO: Connection with database was successfully established.
+[2017-09-22 11:33:03] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:33:03] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:33:03] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:33:03] erpe restarted successfully
+[2017-09-22 11:33:47] restart: Requested by Console
+[2017-09-22 11:33:47] restart: Resource restarting...
+[2017-09-22 11:33:47] Stopping erpe
+[2017-09-22 11:33:47] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:33:47] Starting erpe
+[2017-09-22 11:33:47] INFO: Connection with database was successfully established.
+[2017-09-22 11:33:47] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:33:47] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:33:47] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:33:47] erpe restarted successfully
+[2017-09-22 11:34:00] restart: Requested by Console
+[2017-09-22 11:34:00] restart: Resource restarting...
+[2017-09-22 11:34:00] Stopping erpe
+[2017-09-22 11:34:00] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:34:00] Starting erpe
+[2017-09-22 11:34:00] INFO: Connection with database was successfully established.
+[2017-09-22 11:34:00] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:34:00] erpe restarted successfully
+[2017-09-22 11:34:06] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:34:06] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:34:16] restart: Requested by Console
+[2017-09-22 11:34:16] restart: Resource restarting...
+[2017-09-22 11:34:16] Stopping erpe
+[2017-09-22 11:34:16] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:34:16] Starting erpe
+[2017-09-22 11:34:16] INFO: Connection with database was successfully established.
+[2017-09-22 11:34:16] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:34:16] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:34:16] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:34:16] erpe restarted successfully
+[2017-09-22 11:34:28] restart: Requested by Console
+[2017-09-22 11:34:28] restart: Resource restarting...
+[2017-09-22 11:34:28] Stopping erpe
+[2017-09-22 11:34:28] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:34:28] Starting erpe
+[2017-09-22 11:34:28] INFO: Connection with database was successfully established.
+[2017-09-22 11:34:28] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:34:28] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:34:28] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:34:28] erpe restarted successfully
+[2017-09-22 11:34:41] restart: Requested by Console
+[2017-09-22 11:34:41] restart: Resource restarting...
+[2017-09-22 11:34:41] Stopping erpe
+[2017-09-22 11:34:41] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:34:41] Starting erpe
+[2017-09-22 11:34:41] INFO: Connection with database was successfully established.
+[2017-09-22 11:34:41] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:34:41] erpe restarted successfully
+[2017-09-22 11:34:47] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:34:47] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:35:05] restart: Requested by Console
+[2017-09-22 11:35:05] restart: Resource restarting...
+[2017-09-22 11:35:05] Stopping erpe
+[2017-09-22 11:35:05] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:35:05] Starting erpe
+[2017-09-22 11:35:05] INFO: Connection with database was successfully established.
+[2017-09-22 11:35:05] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:35:05] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:35:05] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:35:05] erpe restarted successfully
+[2017-09-22 11:37:10] QUIT: shlime left the game [Quit]
+[2017-09-22 11:37:14] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:37:14] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 11:57:19] restart: Requested by Console
+[2017-09-22 11:57:19] restart: Resource restarting...
+[2017-09-22 11:57:19] Stopping erpe
+[2017-09-22 11:57:19] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:57:19] Starting erpe
+[2017-09-22 11:57:19] INFO: Connection with database was successfully established.
+[2017-09-22 11:57:19] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:57:19] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:57:19] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:57:19] erpe restarted successfully
+[2017-09-22 11:57:24] QUIT: shlime left the game [Quit]
+[2017-09-22 11:57:28] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:57:28] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 11:58:43] restart: Requested by Console
+[2017-09-22 11:58:43] restart: Resource restarting...
+[2017-09-22 11:58:43] Stopping erpe
+[2017-09-22 11:58:43] Resource 'erpe' changed, reloading and starting
+[2017-09-22 11:58:44] Starting erpe
+[2017-09-22 11:58:44] INFO: Connection with database was successfully established.
+[2017-09-22 11:58:44] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 11:58:44] erpe restarted successfully
+[2017-09-22 11:58:47] QUIT: shlime left the game [Quit]
+[2017-09-22 11:58:49] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 11:58:49] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 11:58:50] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 11:58:50] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:00:56] restart: Requested by Console
+[2017-09-22 12:00:56] restart: Resource restarting...
+[2017-09-22 12:00:56] Stopping erpe
+[2017-09-22 12:00:56] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:00:56] Starting erpe
+[2017-09-22 12:00:56] INFO: Connection with database was successfully established.
+[2017-09-22 12:00:56] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:00:56] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:00:56] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:00:56] erpe restarted successfully
+[2017-09-22 12:02:17] restart: Requested by Console
+[2017-09-22 12:02:17] restart: Resource restarting...
+[2017-09-22 12:02:17] Stopping erpe
+[2017-09-22 12:02:17] Starting erpe
+[2017-09-22 12:02:17] INFO: Connection with database was successfully established.
+[2017-09-22 12:02:17] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:02:17] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:02:17] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:02:17] erpe restarted successfully
+[2017-09-22 12:02:23] QUIT: shlime left the game [Quit]
+[2017-09-22 12:02:26] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:02:26] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 12:03:03] restart: Requested by Console
+[2017-09-22 12:03:03] restart: Resource restarting...
+[2017-09-22 12:03:03] Stopping erpe
+[2017-09-22 12:03:03] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:03:03] Starting erpe
+[2017-09-22 12:03:03] INFO: Connection with database was successfully established.
+[2017-09-22 12:03:03] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:03:03] erpe restarted successfully
+[2017-09-22 12:03:09] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:03:09] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:04:00] restart: Requested by Console
+[2017-09-22 12:04:00] restart: Resource restarting...
+[2017-09-22 12:04:00] Stopping erpe
+[2017-09-22 12:04:00] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:04:00] Starting erpe
+[2017-09-22 12:04:00] INFO: Connection with database was successfully established.
+[2017-09-22 12:04:00] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:04:00] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:04:00] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:04:00] erpe restarted successfully
+[2017-09-22 12:04:14] QUIT: shlime left the game [Quit]
+[2017-09-22 12:04:20] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:04:20] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 12:04:23] QUIT: shlime left the game [Quit]
+[2017-09-22 12:19:24] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:19:25] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 12:20:48] restart: Requested by Console
+[2017-09-22 12:20:48] restart: Resource restarting...
+[2017-09-22 12:20:48] Stopping erpe
+[2017-09-22 12:20:48] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:20:48] Starting erpe
+[2017-09-22 12:20:48] INFO: Connection with database was successfully established.
+[2017-09-22 12:20:48] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:20:48] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:20:48] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:20:48] erpe restarted successfully
+[2017-09-22 12:22:04] restart: Requested by Console
+[2017-09-22 12:22:04] restart: Resource restarting...
+[2017-09-22 12:22:04] Stopping erpe
+[2017-09-22 12:22:04] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:22:04] Starting erpe
+[2017-09-22 12:22:04] INFO: Connection with database was successfully established.
+[2017-09-22 12:22:04] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:22:04] erpe restarted successfully
+[2017-09-22 12:22:10] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:22:10] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:23:30] restart: Requested by Console
+[2017-09-22 12:23:30] restart: Resource restarting...
+[2017-09-22 12:23:30] Stopping erpe
+[2017-09-22 12:23:30] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:23:30] Starting erpe
+[2017-09-22 12:23:30] INFO: Connection with database was successfully established.
+[2017-09-22 12:23:30] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:23:30] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:23:30] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:23:30] erpe restarted successfully
+[2017-09-22 12:24:25] restart: Requested by Console
+[2017-09-22 12:24:25] restart: Resource restarting...
+[2017-09-22 12:24:25] Stopping erpe
+[2017-09-22 12:24:25] Starting erpe
+[2017-09-22 12:24:25] INFO: Connection with database was successfully established.
+[2017-09-22 12:24:25] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:24:25] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:24:25] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:24:25] erpe restarted successfully
+[2017-09-22 12:24:36] restart: Requested by Console
+[2017-09-22 12:24:36] restart: Resource restarting...
+[2017-09-22 12:24:36] Stopping erpe
+[2017-09-22 12:24:36] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:24:36] Starting erpe
+[2017-09-22 12:24:36] INFO: Connection with database was successfully established.
+[2017-09-22 12:24:36] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:24:36] erpe restarted successfully
+[2017-09-22 12:24:42] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:24:42] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:25:17] restart: Requested by Console
+[2017-09-22 12:25:17] restart: Resource restarting...
+[2017-09-22 12:25:17] Stopping erpe
+[2017-09-22 12:25:17] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:25:17] Starting erpe
+[2017-09-22 12:25:17] INFO: Connection with database was successfully established.
+[2017-09-22 12:25:17] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:25:17] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:25:17] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:25:17] erpe restarted successfully
+[2017-09-22 12:26:06] restart: Requested by Console
+[2017-09-22 12:26:06] restart: Resource restarting...
+[2017-09-22 12:26:06] Stopping erpe
+[2017-09-22 12:26:06] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:26:06] Starting erpe
+[2017-09-22 12:26:06] INFO: Connection with database was successfully established.
+[2017-09-22 12:26:06] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:26:06] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:26:06] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:26:06] erpe restarted successfully
+[2017-09-22 12:26:50] restart: Requested by Console
+[2017-09-22 12:26:50] restart: Resource restarting...
+[2017-09-22 12:26:50] Stopping erpe
+[2017-09-22 12:26:50] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:26:50] Starting erpe
+[2017-09-22 12:26:50] INFO: Connection with database was successfully established.
+[2017-09-22 12:26:50] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:26:50] erpe restarted successfully
+[2017-09-22 12:26:56] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:26:56] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:27:35] restart: Requested by Console
+[2017-09-22 12:27:35] restart: Resource restarting...
+[2017-09-22 12:27:35] Stopping erpe
+[2017-09-22 12:27:35] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:27:35] Starting erpe
+[2017-09-22 12:27:35] INFO: Connection with database was successfully established.
+[2017-09-22 12:27:35] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:27:35] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:27:35] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:27:35] erpe restarted successfully
+[2017-09-22 12:30:38] restart: Requested by Console
+[2017-09-22 12:30:38] restart: Resource restarting...
+[2017-09-22 12:30:38] Stopping erpe
+[2017-09-22 12:30:38] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:30:38] Starting erpe
+[2017-09-22 12:30:38] INFO: Connection with database was successfully established.
+[2017-09-22 12:30:38] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:30:38] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:30:38] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:30:38] erpe restarted successfully
+[2017-09-22 12:32:51] restart: Requested by Console
+[2017-09-22 12:32:51] restart: Resource restarting...
+[2017-09-22 12:32:51] Stopping erpe
+[2017-09-22 12:32:51] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:32:51] Starting erpe
+[2017-09-22 12:32:51] INFO: Connection with database was successfully established.
+[2017-09-22 12:32:51] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:32:51] erpe restarted successfully
+[2017-09-22 12:32:57] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:32:57] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:34:07] restart: Requested by Console
+[2017-09-22 12:34:07] restart: Resource restarting...
+[2017-09-22 12:34:07] Stopping erpe
+[2017-09-22 12:34:07] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:34:07] Starting erpe
+[2017-09-22 12:34:07] INFO: Connection with database was successfully established.
+[2017-09-22 12:34:07] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:34:07] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:34:07] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:34:07] erpe restarted successfully
+[2017-09-22 12:34:09] QUIT: shlime left the game [Quit]
+[2017-09-22 12:34:13] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:34:14] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 12:35:05] restart: Requested by Console
+[2017-09-22 12:35:05] restart: Resource restarting...
+[2017-09-22 12:35:05] Stopping erpe
+[2017-09-22 12:35:05] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:35:05] Starting erpe
+[2017-09-22 12:35:05] INFO: Connection with database was successfully established.
+[2017-09-22 12:35:05] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:35:05] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:35:05] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:35:05] erpe restarted successfully
+[2017-09-22 12:35:09] QUIT: shlime left the game [Quit]
+[2017-09-22 12:35:16] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:35:16] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 12:35:58] restart: Requested by Console
+[2017-09-22 12:35:58] restart: Resource restarting...
+[2017-09-22 12:35:58] Stopping erpe
+[2017-09-22 12:35:58] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:35:58] Starting erpe
+[2017-09-22 12:35:58] INFO: Connection with database was successfully established.
+[2017-09-22 12:35:58] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:35:58] erpe restarted successfully
+[2017-09-22 12:36:04] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:36:04] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:36:26] QUIT: shlime left the game [Quit]
+[2017-09-22 12:36:29] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:36:29] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 12:36:54] restart: Requested by Console
+[2017-09-22 12:36:54] restart: Resource restarting...
+[2017-09-22 12:36:54] Stopping erpe
+[2017-09-22 12:36:54] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:36:54] Starting erpe
+[2017-09-22 12:36:54] INFO: Connection with database was successfully established.
+[2017-09-22 12:36:54] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:36:54] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:36:54] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:36:54] erpe restarted successfully
+[2017-09-22 12:36:57] QUIT: shlime left the game [Quit]
+[2017-09-22 12:37:01] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:37:01] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 12:37:05] QUIT: shlime left the game [Quit]
+[2017-09-22 12:37:42] restart: Requested by Console
+[2017-09-22 12:37:42] restart: Resource restarting...
+[2017-09-22 12:37:42] Stopping erpe
+[2017-09-22 12:37:42] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:37:42] Starting erpe
+[2017-09-22 12:37:42] INFO: Connection with database was successfully established.
+[2017-09-22 12:37:42] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:37:42] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:37:42] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:37:42] erpe restarted successfully
+[2017-09-22 12:37:47] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:37:47] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 12:37:53] QUIT: shlime left the game [Quit]
+[2017-09-22 12:40:58] restart: Requested by Console
+[2017-09-22 12:40:58] restart: Resource restarting...
+[2017-09-22 12:40:58] Stopping erpe
+[2017-09-22 12:40:58] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:40:58] Starting erpe
+[2017-09-22 12:40:58] INFO: Connection with database was successfully established.
+[2017-09-22 12:40:58] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:40:58] erpe restarted successfully
+[2017-09-22 12:41:03] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:41:03] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 12:41:04] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:41:04] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:41:15] QUIT: shlime left the game [Quit]
+[2017-09-22 12:41:31] restart: Resource could not be found
+[2017-09-22 12:41:34] restart: Requested by Console
+[2017-09-22 12:41:34] restart: Resource restarting...
+[2017-09-22 12:41:34] Stopping erpe
+[2017-09-22 12:41:34] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:41:34] Starting erpe
+[2017-09-22 12:41:34] INFO: Connection with database was successfully established.
+[2017-09-22 12:41:34] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:41:34] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:41:34] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:41:34] erpe restarted successfully
+[2017-09-22 12:41:38] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:41:39] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 12:42:31] restart: Requested by Console
+[2017-09-22 12:42:31] restart: Resource restarting...
+[2017-09-22 12:42:31] Stopping erpe
+[2017-09-22 12:42:31] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:42:31] Starting erpe
+[2017-09-22 12:42:31] INFO: Connection with database was successfully established.
+[2017-09-22 12:42:31] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:42:31] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:42:31] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:42:31] erpe restarted successfully
+[2017-09-22 12:42:36] QUIT: shlime left the game [Quit]
+[2017-09-22 12:42:40] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:42:40] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 12:42:47] QUIT: shlime left the game [Quit]
+[2017-09-22 12:44:25] restart: Requested by Console
+[2017-09-22 12:44:25] restart: Resource restarting...
+[2017-09-22 12:44:25] Stopping erpe
+[2017-09-22 12:44:25] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:44:25] Starting erpe
+[2017-09-22 12:44:25] INFO: Connection with database was successfully established.
+[2017-09-22 12:44:25] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:44:25] erpe restarted successfully
+[2017-09-22 12:44:29] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:44:30] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 12:44:31] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:44:31] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:45:26] restart: Requested by Console
+[2017-09-22 12:45:26] restart: Resource restarting...
+[2017-09-22 12:45:26] Stopping erpe
+[2017-09-22 12:45:26] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:45:26] Starting erpe
+[2017-09-22 12:45:26] INFO: Connection with database was successfully established.
+[2017-09-22 12:45:26] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:45:26] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:45:26] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:45:26] erpe restarted successfully
+[2017-09-22 12:45:31] QUIT: shlime left the game [Quit]
+[2017-09-22 12:45:34] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:45:34] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 12:45:40] QUIT: shlime left the game [Quit]
+[2017-09-22 12:45:47] restart: Requested by Console
+[2017-09-22 12:45:47] restart: Resource restarting...
+[2017-09-22 12:45:47] Stopping erpe
+[2017-09-22 12:45:47] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:45:47] Starting erpe
+[2017-09-22 12:45:47] INFO: Connection with database was successfully established.
+[2017-09-22 12:45:47] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:45:47] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:45:47] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:45:47] erpe restarted successfully
+[2017-09-22 12:45:51] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:45:51] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 12:45:57] QUIT: shlime left the game [Quit]
+[2017-09-22 12:46:46] restart: Requested by Console
+[2017-09-22 12:46:46] restart: Resource restarting...
+[2017-09-22 12:46:46] Stopping erpe
+[2017-09-22 12:46:46] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:46:46] Starting erpe
+[2017-09-22 12:46:46] INFO: Connection with database was successfully established.
+[2017-09-22 12:46:46] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:46:46] erpe restarted successfully
+[2017-09-22 12:46:52] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:46:52] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:46:55] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:46:56] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 12:47:08] QUIT: shlime left the game [Quit]
+[2017-09-22 12:47:33] restart: Requested by Console
+[2017-09-22 12:47:33] restart: Resource restarting...
+[2017-09-22 12:47:33] Stopping erpe
+[2017-09-22 12:47:33] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:47:33] Starting erpe
+[2017-09-22 12:47:33] INFO: Connection with database was successfully established.
+[2017-09-22 12:47:33] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:47:33] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:47:33] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:47:33] erpe restarted successfully
+[2017-09-22 12:47:38] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:47:39] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 12:47:49] QUIT: shlime left the game [Quit]
+[2017-09-22 12:48:02] restart: Requested by Console
+[2017-09-22 12:48:02] restart: Resource restarting...
+[2017-09-22 12:48:02] Stopping erpe
+[2017-09-22 12:48:02] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:48:02] Starting erpe
+[2017-09-22 12:48:02] INFO: Connection with database was successfully established.
+[2017-09-22 12:48:02] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:48:02] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:48:02] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:48:02] erpe restarted successfully
+[2017-09-22 12:48:13] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:48:13] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 12:48:33] restart: Requested by Console
+[2017-09-22 12:48:33] restart: Resource restarting...
+[2017-09-22 12:48:33] Stopping erpe
+[2017-09-22 12:48:33] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:48:33] Starting erpe
+[2017-09-22 12:48:33] INFO: Connection with database was successfully established.
+[2017-09-22 12:48:33] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:48:33] erpe restarted successfully
+[2017-09-22 12:48:37] QUIT: shlime left the game [Quit]
+[2017-09-22 12:48:39] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:48:39] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:48:46] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 12:48:46] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 12:48:59] restart: Requested by Console
+[2017-09-22 12:48:59] restart: Resource restarting...
+[2017-09-22 12:48:59] Stopping erpe
+[2017-09-22 12:48:59] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:48:59] Starting erpe
+[2017-09-22 12:48:59] INFO: Connection with database was successfully established.
+[2017-09-22 12:48:59] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:48:59] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:48:59] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:48:59] erpe restarted successfully
+[2017-09-22 12:49:15] restart: Requested by Console
+[2017-09-22 12:49:15] restart: Resource restarting...
+[2017-09-22 12:49:15] Stopping erpe
+[2017-09-22 12:49:15] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:49:15] Starting erpe
+[2017-09-22 12:49:15] INFO: Connection with database was successfully established.
+[2017-09-22 12:49:15] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:49:15] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:49:15] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:49:15] erpe restarted successfully
+[2017-09-22 12:49:33] restart: Requested by Console
+[2017-09-22 12:49:33] restart: Resource restarting...
+[2017-09-22 12:49:33] Stopping erpe
+[2017-09-22 12:49:33] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:49:33] Starting erpe
+[2017-09-22 12:49:33] INFO: Connection with database was successfully established.
+[2017-09-22 12:49:33] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:49:33] erpe restarted successfully
+[2017-09-22 12:49:39] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:49:39] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:49:45] restart: Requested by Console
+[2017-09-22 12:49:45] restart: Resource restarting...
+[2017-09-22 12:49:45] Stopping erpe
+[2017-09-22 12:49:45] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:49:45] Starting erpe
+[2017-09-22 12:49:45] INFO: Connection with database was successfully established.
+[2017-09-22 12:49:45] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:49:45] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:49:45] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:49:45] erpe restarted successfully
+[2017-09-22 12:49:53] restart: Requested by Console
+[2017-09-22 12:49:53] restart: Resource restarting...
+[2017-09-22 12:49:53] Stopping erpe
+[2017-09-22 12:49:53] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:49:54] Starting erpe
+[2017-09-22 12:49:54] INFO: Connection with database was successfully established.
+[2017-09-22 12:49:54] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:49:54] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:49:54] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:49:54] erpe restarted successfully
+[2017-09-22 12:50:08] restart: Requested by Console
+[2017-09-22 12:50:08] restart: Resource restarting...
+[2017-09-22 12:50:08] Stopping erpe
+[2017-09-22 12:50:08] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:50:08] Starting erpe
+[2017-09-22 12:50:08] INFO: Connection with database was successfully established.
+[2017-09-22 12:50:08] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:50:08] erpe restarted successfully
+[2017-09-22 12:50:14] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:50:14] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:50:18] restart: Requested by Console
+[2017-09-22 12:50:18] restart: Resource restarting...
+[2017-09-22 12:50:18] Stopping erpe
+[2017-09-22 12:50:18] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:50:18] Starting erpe
+[2017-09-22 12:50:18] INFO: Connection with database was successfully established.
+[2017-09-22 12:50:18] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:50:18] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:50:18] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:50:18] erpe restarted successfully
+[2017-09-22 12:52:44] restart: Requested by Console
+[2017-09-22 12:52:44] restart: Resource restarting...
+[2017-09-22 12:52:44] Stopping erpe
+[2017-09-22 12:52:44] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:52:44] Starting erpe
+[2017-09-22 12:52:44] INFO: Connection with database was successfully established.
+[2017-09-22 12:52:44] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:52:44] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:52:44] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:52:44] erpe restarted successfully
+[2017-09-22 12:52:57] restart: Requested by Console
+[2017-09-22 12:52:57] restart: Resource restarting...
+[2017-09-22 12:52:57] Stopping erpe
+[2017-09-22 12:52:57] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:52:57] Starting erpe
+[2017-09-22 12:52:57] INFO: Connection with database was successfully established.
+[2017-09-22 12:52:57] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:52:57] erpe restarted successfully
+[2017-09-22 12:53:03] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:53:03] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:53:04] restart: Requested by Console
+[2017-09-22 12:53:04] restart: Resource restarting...
+[2017-09-22 12:53:04] Stopping erpe
+[2017-09-22 12:53:04] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:53:04] Starting erpe
+[2017-09-22 12:53:04] INFO: Connection with database was successfully established.
+[2017-09-22 12:53:04] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:53:04] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:53:04] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:53:04] erpe restarted successfully
+[2017-09-22 12:56:19] restart: Requested by Console
+[2017-09-22 12:56:19] restart: Resource restarting...
+[2017-09-22 12:56:19] Stopping erpe
+[2017-09-22 12:56:20] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:56:20] Starting erpe
+[2017-09-22 12:56:20] INFO: Connection with database was successfully established.
+[2017-09-22 12:56:20] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:56:20] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:56:20] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:56:20] erpe restarted successfully
+[2017-09-22 12:57:58] restart: Requested by Console
+[2017-09-22 12:57:58] restart: Resource restarting...
+[2017-09-22 12:57:58] Stopping erpe
+[2017-09-22 12:57:58] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:57:58] Starting erpe
+[2017-09-22 12:57:58] INFO: Connection with database was successfully established.
+[2017-09-22 12:57:58] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:57:58] erpe restarted successfully
+[2017-09-22 12:58:04] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:58:04] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:58:38] restart: Requested by Console
+[2017-09-22 12:58:38] restart: Resource restarting...
+[2017-09-22 12:58:38] Stopping erpe
+[2017-09-22 12:58:38] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:58:38] Starting erpe
+[2017-09-22 12:58:38] INFO: Connection with database was successfully established.
+[2017-09-22 12:58:38] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:58:38] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:58:38] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:58:38] erpe restarted successfully
+[2017-09-22 12:59:23] restart: Requested by Console
+[2017-09-22 12:59:23] restart: Resource restarting...
+[2017-09-22 12:59:23] Stopping erpe
+[2017-09-22 12:59:23] Resource 'erpe' changed, reloading and starting
+[2017-09-22 12:59:23] Starting erpe
+[2017-09-22 12:59:23] INFO: Connection with database was successfully established.
+[2017-09-22 12:59:23] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 12:59:23] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:59:23] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 12:59:23] erpe restarted successfully
+[2017-09-22 13:00:56] restart: Requested by Console
+[2017-09-22 13:00:56] restart: Resource restarting...
+[2017-09-22 13:00:56] Stopping erpe
+[2017-09-22 13:00:56] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:00:56] Starting erpe
+[2017-09-22 13:00:56] INFO: Connection with database was successfully established.
+[2017-09-22 13:00:56] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:00:56] erpe restarted successfully
+[2017-09-22 13:01:02] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:01:02] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:02:04] restart: Requested by Console
+[2017-09-22 13:02:04] restart: Resource restarting...
+[2017-09-22 13:02:04] Stopping erpe
+[2017-09-22 13:02:04] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:02:04] Starting erpe
+[2017-09-22 13:02:04] INFO: Connection with database was successfully established.
+[2017-09-22 13:02:04] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:02:04] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:02:04] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:02:04] erpe restarted successfully
+[2017-09-22 13:02:35] restart: Requested by Console
+[2017-09-22 13:02:35] restart: Resource restarting...
+[2017-09-22 13:02:35] Stopping erpe
+[2017-09-22 13:02:35] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:02:35] Starting erpe
+[2017-09-22 13:02:35] INFO: Connection with database was successfully established.
+[2017-09-22 13:02:35] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:02:35] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:02:35] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:02:35] erpe restarted successfully
+[2017-09-22 13:04:13] restart: Requested by Console
+[2017-09-22 13:04:13] restart: Resource restarting...
+[2017-09-22 13:04:13] Stopping erpe
+[2017-09-22 13:04:13] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:04:13] Starting erpe
+[2017-09-22 13:04:13] INFO: Connection with database was successfully established.
+[2017-09-22 13:04:13] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:04:13] erpe restarted successfully
+[2017-09-22 13:04:19] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:04:19] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:05:44] restart: Requested by Console
+[2017-09-22 13:05:44] restart: Resource restarting...
+[2017-09-22 13:05:44] Stopping erpe
+[2017-09-22 13:05:44] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:05:44] Starting erpe
+[2017-09-22 13:05:44] INFO: Connection with database was successfully established.
+[2017-09-22 13:05:44] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:05:44] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:05:44] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:05:44] erpe restarted successfully
+[2017-09-22 13:06:53] restart: Requested by Console
+[2017-09-22 13:06:53] restart: Resource restarting...
+[2017-09-22 13:06:53] Stopping erpe
+[2017-09-22 13:06:53] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:06:53] Starting erpe
+[2017-09-22 13:06:53] INFO: Connection with database was successfully established.
+[2017-09-22 13:06:53] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:06:53] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:06:53] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:06:53] erpe restarted successfully
+[2017-09-22 13:07:07] restart: Requested by Console
+[2017-09-22 13:07:07] restart: Resource restarting...
+[2017-09-22 13:07:07] Stopping erpe
+[2017-09-22 13:07:07] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:07:07] Starting erpe
+[2017-09-22 13:07:07] INFO: Connection with database was successfully established.
+[2017-09-22 13:07:07] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:07:07] erpe restarted successfully
+[2017-09-22 13:07:13] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:07:13] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:07:23] restart: Requested by Console
+[2017-09-22 13:07:23] restart: Resource restarting...
+[2017-09-22 13:07:23] Stopping erpe
+[2017-09-22 13:07:23] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:07:23] Starting erpe
+[2017-09-22 13:07:23] INFO: Connection with database was successfully established.
+[2017-09-22 13:07:23] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:07:23] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:07:23] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:07:23] erpe restarted successfully
+[2017-09-22 13:18:28] restart: Requested by Console
+[2017-09-22 13:18:28] restart: Resource restarting...
+[2017-09-22 13:18:28] Stopping erpe
+[2017-09-22 13:18:28] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:18:28] Starting erpe
+[2017-09-22 13:18:28] INFO: Connection with database was successfully established.
+[2017-09-22 13:18:28] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:18:28] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:18:28] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:18:28] erpe restarted successfully
+[2017-09-22 13:18:50] QUIT: shlime left the game [Quit]
+[2017-09-22 13:19:00] restart: Requested by Console
+[2017-09-22 13:19:00] restart: Resource restarting...
+[2017-09-22 13:19:00] Stopping erpe
+[2017-09-22 13:19:00] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:19:00] Starting erpe
+[2017-09-22 13:19:00] INFO: Connection with database was successfully established.
+[2017-09-22 13:19:00] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:19:00] erpe restarted successfully
+[2017-09-22 13:19:06] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:19:06] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:19:06] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 13:19:06] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 13:22:16] HTTP: Failed login attempt for user 'shlime' from 127.0.0.1
+[2017-09-22 13:22:28] Server stopped!
+[2017-09-22 13:22:28] Stopping resources......................
+[2017-09-22 13:22:28] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 13:22:29] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 13:23:13] Resources: 58 loaded, 0 failed
+[2017-09-22 13:23:13] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 13:23:13] Starting resources...
+[2017-09-22 13:23:21] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 13:23:30] INFO: Connection with database was successfully established.
+[2017-09-22 13:23:30] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:23:30] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:23:30] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:23:30] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 13:23:30] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 13:23:30] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 13:23:30] WARNING: <owner_email_address> not set
+[2017-09-22 13:23:30] Server started and is ready to accept connections!
+[2017-09-22 13:23:30] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 13:23:30] Type 'help' for a list of commands.
+[2017-09-22 13:23:36] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:23:36] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:23:50] HTTP: Failed login attempt for user 'shlime' from 127.0.0.1
+[2017-09-22 13:24:02] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 13:24:02] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 13:24:10] ACL: Denied 'shlime' access to command 'restart'
+[2017-09-22 13:24:43] Server stopped!
+[2017-09-22 13:24:44] Stopping resources......................
+[2017-09-22 13:24:44] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 13:24:44] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 13:25:44] Resources: 58 loaded, 0 failed
+[2017-09-22 13:25:44] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 13:25:44] Starting resources...
+[2017-09-22 13:25:53] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 13:26:02] INFO: Connection with database was successfully established.
+[2017-09-22 13:26:02] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:26:02] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:26:02] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:26:02] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 13:26:02] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 13:26:02] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 13:26:02] WARNING: <owner_email_address> not set
+[2017-09-22 13:26:02] Server started and is ready to accept connections!
+[2017-09-22 13:26:02] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 13:26:02] Type 'help' for a list of commands.
+[2017-09-22 13:26:08] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:26:08] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:26:25] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 13:26:26] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 13:26:39] ADMIN: shlime registered account 'shlime' (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4)
+[2017-09-22 13:26:43] LOGIN: (Everyone, Admin) shlime successfully logged in as 'shlime' (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4)
+[2017-09-22 13:27:37] HTTP: 'shlime' entered correct password from 127.0.0.1
+[2017-09-22 13:36:44] restart: Requested by Console
+[2017-09-22 13:36:44] restart: Resource restarting...
+[2017-09-22 13:36:44] Stopping erpe
+[2017-09-22 13:36:44] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:36:44] Starting erpe
+[2017-09-22 13:36:44] INFO: Connection with database was successfully established.
+[2017-09-22 13:36:44] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:36:44] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:36:44] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:36:44] erpe restarted successfully
+[2017-09-22 13:36:47] QUIT: shlime left the game [Quit]
+[2017-09-22 13:36:51] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 13:36:51] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 13:54:55] restart: Requested by Console
+[2017-09-22 13:54:55] restart: Resource restarting...
+[2017-09-22 13:54:55] Stopping erpe
+[2017-09-22 13:54:55] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:54:55] Starting erpe
+[2017-09-22 13:54:55] INFO: Connection with database was successfully established.
+[2017-09-22 13:54:55] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:54:55] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:54:55] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:54:55] erpe restarted successfully
+[2017-09-22 13:55:02] WARNING: erpe\server\server.lua:30: dbPoll failed; Unknown column 'shlime' in 'where clause'
+[2017-09-22 13:55:02] ERROR: erpe\server\server.lua:32: attempt to index local 'result' (a boolean value)
+[2017-09-22 13:55:03] WARNING: erpe\server\server.lua:30: dbPoll failed; Unknown column 'shlime' in 'where clause'  [DUP x2]
+[2017-09-22 13:55:03] ERROR: erpe\server\server.lua:32: attempt to index local 'result' (a boolean value)  [DUP x2]
+[2017-09-22 13:55:03] ERROR: Client (shlime) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 13:55:06] ERROR: Client (shlime) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 13:55:06] WARNING: erpe\server\server.lua:30: dbPoll failed; Unknown column 'shlime' in 'where clause'
+[2017-09-22 13:55:06] ERROR: erpe\server\server.lua:32: attempt to index local 'result' (a boolean value)
+[2017-09-22 13:55:52] restart: Requested by Console
+[2017-09-22 13:55:52] restart: Resource restarting...
+[2017-09-22 13:55:52] Stopping erpe
+[2017-09-22 13:55:52] Resource 'erpe' changed, reloading and starting
+[2017-09-22 13:55:52] Starting erpe
+[2017-09-22 13:55:52] INFO: Connection with database was successfully established.
+[2017-09-22 13:55:52] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 13:55:52] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:55:52] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 13:55:52] erpe restarted successfully
+[2017-09-22 13:55:55] WARNING: erpe\server\server.lua:30: dbPoll failed; Unknown column 'adasdasda' in 'where clause'
+[2017-09-22 13:55:55] ERROR: erpe\server\server.lua:32: attempt to index local 'result' (a boolean value)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 14:01:14] Resources: 58 loaded, 0 failed
+[2017-09-22 14:01:14] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 14:01:14] Starting resources...
+[2017-09-22 14:01:22] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 14:01:30] INFO: Connection with database was successfully established.
+[2017-09-22 14:01:30] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:01:30] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:01:30] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:01:30] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 14:01:30] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 14:01:30] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 14:01:30] WARNING: <owner_email_address> not set
+[2017-09-22 14:01:30] Server started and is ready to accept connections!
+[2017-09-22 14:01:30] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 14:01:30] Type 'help' for a list of commands.
+[2017-09-22 14:01:36] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:01:36] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:01:59] CONNECT: shlime connected (IP: 192.168.1.64  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 14:01:59] JOIN: shlime joined the game (IP: 192.168.1.64)
+[2017-09-22 14:02:02] WARNING: erpe\server\server.lua:30: dbPoll failed; Unknown column 'adasdasda' in 'where clause'
+[2017-09-22 14:02:02] ERROR: erpe\server\server.lua:31: attempt to index local 'result' (a boolean value)
+[2017-09-22 14:03:53] restart: Requested by Console
+[2017-09-22 14:03:53] restart: Resource restarting...
+[2017-09-22 14:03:53] Stopping erpe
+[2017-09-22 14:03:53] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:03:53] Starting erpe
+[2017-09-22 14:03:53] INFO: Connection with database was successfully established.
+[2017-09-22 14:03:53] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:03:53] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:03:53] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:03:53] erpe restarted successfully
+[2017-09-22 14:03:55] WARNING: erpe\server\server.lua:30: dbPoll failed; Unknown column 'adasdasda' in 'where clause'
+[2017-09-22 14:04:05] WARNING: erpe\server\server.lua:30: dbPoll failed; Unknown column 'shlime' in 'where clause'
+[2017-09-22 14:06:07] restart: Requested by Console
+[2017-09-22 14:06:07] restart: Resource restarting...
+[2017-09-22 14:06:07] Stopping erpe
+[2017-09-22 14:06:07] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:06:07] Starting erpe
+[2017-09-22 14:06:07] INFO: Connection with database was successfully established.
+[2017-09-22 14:06:07] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:06:07] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:06:07] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:06:07] erpe restarted successfully
+[2017-09-22 14:06:10] WARNING: erpe\server\server.lua:30: dbPoll failed; You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'adasdasda'' at line 1
+[2017-09-22 14:06:26] WARNING: erpe\server\server.lua:30: dbPoll failed; You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '123'' at line 1
+[2017-09-22 14:11:23] restart: Requested by Console
+[2017-09-22 14:11:23] restart: Resource restarting...
+[2017-09-22 14:11:23] Stopping erpe
+[2017-09-22 14:11:23] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:11:23] Starting erpe
+[2017-09-22 14:11:23] INFO: Connection with database was successfully established.
+[2017-09-22 14:11:23] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:11:23] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:11:23] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:11:23] erpe restarted successfully
+[2017-09-22 14:11:25] WARNING: erpe\server\server.lua:30: dbPoll failed; Unknown column 'password' in 'where clause'
+[2017-09-22 14:11:53] restart: Requested by Console
+[2017-09-22 14:11:53] restart: Resource restarting...
+[2017-09-22 14:11:53] Stopping erpe
+[2017-09-22 14:11:53] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:11:53] Starting erpe
+[2017-09-22 14:11:53] INFO: Connection with database was successfully established.
+[2017-09-22 14:11:53] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:11:53] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:11:53] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:11:53] erpe restarted successfully
+[2017-09-22 14:12:29] restart: Requested by Console
+[2017-09-22 14:12:29] restart: Resource restarting...
+[2017-09-22 14:12:29] Stopping erpe
+[2017-09-22 14:12:29] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:12:29] Starting erpe
+[2017-09-22 14:12:29] INFO: Connection with database was successfully established.
+[2017-09-22 14:12:29] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:12:29] erpe restarted successfully
+[2017-09-22 14:12:32] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:12:32] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:12:32] WARNING: erpe\server\server.lua:32: Bad argument @ 'toJSON'
+[2017-09-22 14:12:32] WARNING: erpe\server\server.lua:32: Bad argument @ 'outputChatBox' [Expected string at argument 1, got nil]
+[2017-09-22 14:12:42] restart: Requested by Console
+[2017-09-22 14:12:42] restart: Resource restarting...
+[2017-09-22 14:12:42] Stopping erpe
+[2017-09-22 14:12:42] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:12:42] Starting erpe
+[2017-09-22 14:12:42] INFO: Connection with database was successfully established.
+[2017-09-22 14:12:42] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:12:42] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:12:42] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:12:42] erpe restarted successfully
+[2017-09-22 14:12:48] WARNING: erpe\server\server.lua:32: Bad argument @ 'outputChatBox' [Expected string at argument 1, got nil]
+[2017-09-22 14:13:56] restart: Requested by Console
+[2017-09-22 14:13:56] restart: Resource restarting...
+[2017-09-22 14:13:56] Stopping erpe
+[2017-09-22 14:13:56] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:13:56] Starting erpe
+[2017-09-22 14:13:56] INFO: Connection with database was successfully established.
+[2017-09-22 14:13:56] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:13:56] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:13:56] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:13:56] erpe restarted successfully
+[2017-09-22 14:14:11] ERROR: Client (shlime) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:14:30] restart: Requested by Console
+[2017-09-22 14:14:30] restart: Resource restarting...
+[2017-09-22 14:14:30] Stopping erpe
+[2017-09-22 14:14:30] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:14:30] Starting erpe
+[2017-09-22 14:14:30] INFO: Connection with database was successfully established.
+[2017-09-22 14:14:30] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:14:30] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:14:30] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:14:30] erpe restarted successfully
+[2017-09-22 14:15:04] restart: Requested by Console
+[2017-09-22 14:15:04] restart: Resource restarting...
+[2017-09-22 14:15:04] Stopping erpe
+[2017-09-22 14:15:04] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:15:04] Starting erpe
+[2017-09-22 14:15:04] INFO: Connection with database was successfully established.
+[2017-09-22 14:15:04] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:15:04] erpe restarted successfully
+[2017-09-22 14:15:10] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:15:10] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:15:20] restart: Requested by Console
+[2017-09-22 14:15:20] restart: Resource restarting...
+[2017-09-22 14:15:20] Stopping erpe
+[2017-09-22 14:15:20] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:15:20] Starting erpe
+[2017-09-22 14:15:20] INFO: Connection with database was successfully established.
+[2017-09-22 14:15:20] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:15:20] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:15:20] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:15:20] erpe restarted successfully
+[2017-09-22 14:15:33] restart: Requested by Console
+[2017-09-22 14:15:33] restart: Resource restarting...
+[2017-09-22 14:15:33] Stopping erpe
+[2017-09-22 14:15:33] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:15:33] Starting erpe
+[2017-09-22 14:15:33] INFO: Connection with database was successfully established.
+[2017-09-22 14:15:33] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:15:33] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:15:33] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:15:33] erpe restarted successfully
+[2017-09-22 14:16:27] restart: Requested by Console
+[2017-09-22 14:16:27] restart: Resource restarting...
+[2017-09-22 14:16:27] Stopping erpe
+[2017-09-22 14:16:27] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:16:27] Starting erpe
+[2017-09-22 14:16:27] INFO: Connection with database was successfully established.
+[2017-09-22 14:16:27] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:16:27] erpe restarted successfully
+[2017-09-22 14:16:33] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:16:33] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:17:02] Server stopped!
+[2017-09-22 14:17:02] Stopping resources......................
+[2017-09-22 14:17:02] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 14:17:02] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.4
+==================================================================
+= Server name      : ZSoli erpé szervere
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..r/RP/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2017-09-22 14:17:30] Resources: 58 loaded, 0 failed
+[2017-09-22 14:17:30] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 14:17:30] Starting resources...
+[2017-09-22 14:17:38] Server minclientversion is now 1.5.4-9.11674.0
+[2017-09-22 14:17:46] INFO: Connection with database was successfully established.
+[2017-09-22 14:17:46] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:17:46] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:17:46] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:17:46] ERROR: Couldn't find resource freeroamhun. Check it exists.
+[2017-09-22 14:17:46] Querying MTA master server... success! (Auto detected IP:188.156.20.20)
+[2017-09-22 14:17:46] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2017-09-22 14:17:46] WARNING: <owner_email_address> not set
+[2017-09-22 14:17:46] Server started and is ready to accept connections!
+[2017-09-22 14:17:46] To stop the server, type 'shutdown' or press Ctrl-C
+[2017-09-22 14:17:46] Type 'help' for a list of commands.
+[2017-09-22 14:17:52] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:17:52] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:17:54] CONNECT: shlime connected (IP: 127.0.0.1  Serial: 5BC7609017797729AE3ED627E0C271E4  Version: 1.5.4-9.11674.2)
+[2017-09-22 14:17:54] JOIN: shlime joined the game (IP: 127.0.0.1)
+[2017-09-22 14:22:35] restart: Requested by Console
+[2017-09-22 14:22:35] restart: Resource restarting...
+[2017-09-22 14:22:35] Stopping erpe
+[2017-09-22 14:22:35] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:22:35] Starting erpe
+[2017-09-22 14:22:35] INFO: Connection with database was successfully established.
+[2017-09-22 14:22:35] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:22:35] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:22:35] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:22:35] erpe restarted successfully
+[2017-09-22 14:23:06] WARNING: erpe\server\server.lua:29: Database result uncollected after 5 minutes. [Query: SELECT * FROM felhasznalok WHERE fnev='adasdasda' AND jelszo='adasdasda']
+[2017-09-22 14:23:16] WARNING: erpe\server\server.lua:29: Database result uncollected after 5 minutes. [Query: SELECT * FROM felhasznalok WHERE fnev='shlime' AND jelszo='123']
+[2017-09-22 14:23:26] WARNING: erpe\server\server.lua:29: Database result uncollected after 5 minutes. [Query: SELECT * FROM felhasznalok WHERE fnev='shlime' AND jelszo='123']
+[2017-09-22 14:24:32] restart: Requested by Console
+[2017-09-22 14:24:32] restart: Resource restarting...
+[2017-09-22 14:24:32] Stopping erpe
+[2017-09-22 14:24:32] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:24:32] Starting erpe
+[2017-09-22 14:24:32] INFO: Connection with database was successfully established.
+[2017-09-22 14:24:32] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:24:32] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:24:32] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:24:32] erpe restarted successfully
+[2017-09-22 14:25:03] restart: Requested by Console
+[2017-09-22 14:25:03] restart: Resource restarting...
+[2017-09-22 14:25:03] Stopping erpe
+[2017-09-22 14:25:03] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:25:03] Starting erpe
+[2017-09-22 14:25:03] INFO: Connection with database was successfully established.
+[2017-09-22 14:25:03] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:25:03] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:25:03] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:25:03] erpe restarted successfully
+[2017-09-22 14:27:01] restart: Requested by Console
+[2017-09-22 14:27:01] restart: Resource restarting...
+[2017-09-22 14:27:01] Stopping erpe
+[2017-09-22 14:27:01] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:27:01] Starting erpe
+[2017-09-22 14:27:01] INFO: Connection with database was successfully established.
+[2017-09-22 14:27:01] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:27:01] erpe restarted successfully
+[2017-09-22 14:27:07] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:27:07] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:27:31] restart: Requested by Console
+[2017-09-22 14:27:31] restart: Resource restarting...
+[2017-09-22 14:27:31] Stopping erpe
+[2017-09-22 14:27:31] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:27:31] Starting erpe
+[2017-09-22 14:27:31] INFO: Connection with database was successfully established.
+[2017-09-22 14:27:31] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:27:31] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:27:31] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:27:31] erpe restarted successfully
+[2017-09-22 14:27:47] WARNING: erpe\server\server.lua:29: Database result uncollected after 5 minutes. [Query: SELECT * FROM felhasznalok WHERE fnev='adasdasda' AND jelszo='adasdasda']
+[2017-09-22 14:28:14] restart: Requested by Console
+[2017-09-22 14:28:14] restart: Resource restarting...
+[2017-09-22 14:28:14] Stopping erpe
+[2017-09-22 14:28:14] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:28:14] Starting erpe
+[2017-09-22 14:28:14] INFO: Connection with database was successfully established.
+[2017-09-22 14:28:14] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:28:14] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:28:14] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:28:14] erpe restarted successfully
+[2017-09-22 14:30:16] restart: Requested by Console
+[2017-09-22 14:30:16] restart: Resource restarting...
+[2017-09-22 14:30:16] Stopping erpe
+[2017-09-22 14:30:16] Resource 'erpe' changed, reloading and starting
+[2017-09-22 14:30:16] Starting erpe
+[2017-09-22 14:30:16] INFO: Connection with database was successfully established.
+[2017-09-22 14:30:16] Gamemode 'ERPÉ szerver' started.
+[2017-09-22 14:30:16] erpe restarted successfully
+[2017-09-22 14:30:22] INFO: A "felhasznalok" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:30:22] INFO: A "karakterek" tábla sikeresen létrehozva a szerver által.
+[2017-09-22 14:30:47] CONNECT: pajszi connected (IP: 89.133.55.164  Serial: 133430AC53A6B147505728A50688E084  Version: 1.5.4-9.11674.2)
+[2017-09-22 14:30:48] JOIN: pajszi joined the game (IP: 89.133.55.164)
+[2017-09-22 14:31:10] ERROR: Client (pajszi) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:31:34] ERROR: Client (pajszi) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:31:39] CHAT: pajszi: sdf
+[2017-09-22 14:31:40] ERROR: Client (shlime) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:31:40] ERROR: Client (pajszi) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:31:41] ERROR: Client (shlime) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:31:41] ERROR: Client (shlime) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:31:41] ERROR: Client (shlime) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:31:41] ERROR: Client (pajszi) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:31:42] ERROR: Client (shlime) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:31:48] ERROR: Client (pajszi) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:31:48] ERROR: Client (shlime) triggered serverside event submitRegister, but event is not added serverside
+[2017-09-22 14:32:00] QUIT: shlime left the game [Quit]
+[2017-09-22 14:32:03] Server stopped!
+[2017-09-22 14:32:03] Stopping resources......................
+[2017-09-22 14:32:03] MODULE: Unloaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[2017-09-22 14:32:03] Closing SQLite3 database

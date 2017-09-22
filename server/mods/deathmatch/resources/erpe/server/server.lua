@@ -1,7 +1,7 @@
 root = getRootElement()
 MAX_PLAYERS = 32
 
-local components = { "weapon", "ammo", "health", "clock", "money", "breath", "armour", "wanted" }
+local components = { "weapon", "ammo", "health", "clock", "money", "breath", "armour", "wanted", "area_name", "radar" }
 
 pInfo = { } -- TÖMB
 
@@ -12,16 +12,51 @@ addEventHandler("onResourceStart", root, mysqlQueriesOnStart)
 
 addEventHandler("onPlayerJoin", root,
 	function ()
-		spawnPlayer(source, 0, 0, 3)
-		setCameraTarget(source, source)
-		fadeCamera(source, true)
-		outputChatBox("Szia barát! Üdv Diószeg legjobb erpé szerverén..", source)
+		--spawnPlayer(source, 0, 0, 3)
+		--setCameraTarget(source, source)
+		fadeCamera(source, true, 3)
+		setCameraMatrix(source, 1468.8785400391, -919.25317382813, 100.153465271, 1468.388671875, -918.42474365234, 99.881813049316)
+		outputChatBox("Szia barát! Üdv Diószeg legjobb erpé szerverén..", source, 240, 255, 2)
+
 		setPlayerNametagShowing ( source,  false ) 
 		for _, component in ipairs( components ) do
 			setPlayerHudComponentVisible(source, component, false )
 		end
 	end
 )
+
+function loginHandler(username, password)
+	local query = dbQuery(connection, "SELECT fnev, jelszo FROM felhasznalok WHERE fnev='??' AND jelszo='??'", username, password)
+	local result = dbPoll(query, 1)
+	if result then
+		for rid, row in ipairs (result) do -- row represents the tables that are in 'result', which represent the rows
+			if(tostring(row["fnev"]) == username) and (tostring(row["jelszo"]) == password) then
+				outputChatBox("Sikeres bejelentkezés")
+			end
+		end
+	end
+end
+
+addEvent("submitLogin", true)
+addEventHandler("submitLogin", root, loginHandler)
+
+function registerHandler(username, password)
+	local query = dbQuery(connection, "SELECT * FROM felhasznalok WHERE fnev='"..username.."'' AND jelszo='"..password.."'")
+end
+
+addEvent("registerHandler", true)
+addEventHandler("registerHandler", root, registerHandler)
+
+
+
+
+
+
+
+
+
+
+
 
 addCommandHandler("skin",
 	function ( player, command, targetID, skin )
